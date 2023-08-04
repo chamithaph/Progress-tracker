@@ -1,0 +1,1097 @@
+﻿Road Number,Class,Name,From (m),To (m),Length (m),Deport,Deport Code,EE,EE Code,CE,CE Code,Province,Prov Code
+A0000,A,Kollupitiya - Sri Jayewardenepura,0,3570,3570,CMC,01110,Colombo,0111,Colombo,011,Western Province,01
+A0000,A,Kollupitiya - Sri Jayewardenepura,3570,7092,3522,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+A0001,A,Colombo - Kandy,0,4700,4700,CMC,01110,Colombo,0111,Colombo,011,Western Province,01
+A0001,A,Colombo - Kandy,4700,5860,1160,Orugodawatta,01114,Colombo,0111,Colombo,011,Western Province,01
+A0001,A,Colombo - Kandy,5860,22580,16720,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+A0001,A,Colombo - Kandy,22580,33850,11270,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+A0001,A,Colombo - Kandy,33850,44080,10230,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+A0001,A,Colombo - Kandy,44080,55900,11820,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+A0001,A,Colombo - Kandy,55900,66070,10170,Warakapola,09216,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+A0001,A,Colombo - Kandy,66070,73070,7000,Abanpitiya,09211,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+A0001,A,Colombo - Kandy,73070,81070,8000,Dewalegama,09212,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+A0001,A,Colombo - Kandy,81070,85075,4005,Rambukkana,09215,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+A0001,A,Colombo - Kandy,85075,98710,13635,Molagoda,09214,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+A0001,A,Colombo - Kandy,98710,109240,10530,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+A0001,A,Colombo - Kandy,109240,115613,6373,Gatambe,02112,Kandy,0211,Kandy,021,Central Province,02
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,0,8227,8227,CMC,01110,Colombo,0111,Colombo,011,Western Province,01
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,8227,19500,11273,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,19500,37080,17580,Panadura,01314,Kalutara,0131,Kalutara,013,Western Province,01
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,37080,61080,24000,Kalutara,01312,Kalutara,0131,Kalutara,013,Western Province,01
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,61080,86090,25010,Karandeniya,03112,Galle,0311,Galle,031,Southern Province,03
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,86090,98130,12040,Baddegama,03111,Galle,0311,Galle,031,Southern Province,03
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,98130,135260,37130,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,135260,158090,22830,Weligama,03212,Matara,0321,Matara,032,Southern Province,03
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,158090,185100,27010,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,185100,231120,46020,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,231120,258000,26880,Uda malala,03321,Hambantota,0332,Hambantota,033,Southern Province,03
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,258000,281940,23940,Weerawila,03322,Hambantota,0332,Hambantota,033,Southern Province,03
+A0002,A,Colombo - Galle - Hambantota - Wellawaya,281940,318465,36525,Bodagama,08211,Monaragala,0821,Monaragala,082,UVA Province,08
+A0003,A,Peliyagoda - Puttalam,0,2005,2005,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+A0003,A,Peliyagoda - Puttalam,2005,6940,4935,Wattala,01224,Negambo,0122,Gampaha,012,Western Province,01
+A0003,A,Peliyagoda - Puttalam,6940,18330,11390,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+A0003,A,Peliyagoda - Puttalam,18330,37900,19570,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+A0003,A,Peliyagoda - Puttalam,37900,49990,12090,Haldaduwana,06212,Chilaw,0621,Chilaw,062,North Western Province,06
+A0003,A,Peliyagoda - Puttalam,49990,65000,15010,Walahapitiya,06214,Chilaw,0621,Chilaw,062,North Western Province,06
+A0003,A,Peliyagoda - Puttalam,65000,71015,6015,Kokkawila,06213,Chilaw,0621,Chilaw,062,North Western Province,06
+A0003,A,Peliyagoda - Puttalam,71015,93825,22810,Chilaw,06211,Chilaw,0621,Chilaw,062,North Western Province,06
+A0003,A,Peliyagoda - Puttalam,93825,105055,11230,Andigama,06222,Puttalam,0622,Chilaw,062,North Western Province,06
+A0003,A,Peliyagoda - Puttalam,105055,122055,17000,Palawi,06225,Puttalam,0622,Chilaw,062,North Western Province,06
+A0003,A,Peliyagoda - Puttalam,122055,127231,5176,Puttalam,06226,Puttalam,0622,Chilaw,062,North Western Province,06
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,0,9145,9145,CMC,01110,Colombo,0111,Colombo,011,Western Province,01
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,9145,18260,9115,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,18260,26250,7990,Homagama,01122,Avissawella,0112,Colombo,011,Western Province,01
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,26250,37280,11030,Galagedara,01121,Avissawella,0112,Colombo,011,Western Province,01
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,37280,61075,23795,Kaluaggala,01123,Avissawella,0112,Colombo,011,Western Province,01
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,61075,99385,38310,Parakaduwa,09114,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,99385,105315,5930,Malwala,09113,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,105315,130240,24925,Madampe,09122,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,130240,145200,14960,Horaketiya,09121,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,145200,167800,22600,Pagal owita,09124,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,167800,213815,46015,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,213815,259350,45535,Pelwatta,08212,Monaragala,0821,Monaragala,082,UVA Province,08
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,259350,293020,33670,Siyambalanduwa,08222,Bibile,0822,Monaragala,082,UVA Province,08
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,293020,335250,42230,Pottuvil,10212,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,335250,364060,28810,Thirukkovil,10213,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,364060,368000,3940,Akkaraipattu,10211,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,368000,391430,23430,Chavalakadi,10221,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,391430,417930,26500,Kalawanchikudi,05111,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+A0004,A,Colombo - Ratnapura - Wellawaya - Batticaloa,417930,425988,8058,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+A0005,A,Peradeniya - Badulla - Chenkaladi,0,31870,31870,Meewathura,02133,Kadugannawa,0213,Kandy,021,Central Province,02
+A0005,A,Peradeniya - Badulla - Chenkaladi,31870,58520,26650,Ramboda,02312,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+A0005,A,Peradeniya - Badulla - Chenkaladi,58520,75740,17220,Bambarakale,02311,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+A0005,A,Peradeniya - Badulla - Chenkaladi,75740,92420,16680,Mirahawatta,08112,Bandarawela,0811,Badulla,081,UVA Province,08
+A0005,A,Peradeniya - Badulla - Chenkaladi,92420,122570,30150,Hali-Ela,08122,Badulla,0812,Badulla,081,UVA Province,08
+A0005,A,Peradeniya - Badulla - Chenkaladi,122570,159840,37270,Debadda,08121,Badulla,0812,Badulla,081,UVA Province,08
+A0005,A,Peradeniya - Badulla - Chenkaladi,159840,199920,40080,Bibile,08221,Bibile,0822,Monaragala,082,UVA Province,08
+A0005,A,Peradeniya - Badulla - Chenkaladi,199920,239225,39305,Padiyatalawa,10122,Dehiatthakandiya,1012,Ampara,101,Add.P Akkaraipattu,10
+A0005,A,Peradeniya - Badulla - Chenkaladi,239225,271622,32397,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+A0006,A,Ambepussa - Kurunegala - Trincomalee,0,7070,7070,Warakapola,09216,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+A0006,A,Ambepussa - Kurunegala - Trincomalee,7070,29900,22830,Bulugolla,06111,Kurunegala,0611,Kurunegala,061,North Western Province,06
+A0006,A,Ambepussa - Kurunegala - Trincomalee,29900,42835,12935,Kurunegala,06114,Kurunegala,0611,Kurunegala,061,North Western Province,06
+A0006,A,Ambepussa - Kurunegala - Trincomalee,42835,68920,26085,Kiribamuna,06113,Kurunegala,0611,Kurunegala,061,North Western Province,06
+A0006,A,Ambepussa - Kurunegala - Trincomalee,68920,84721,15801,Beligamuwa,02221,Nalanda,0222,Matale,022,Central Province,02
+A0006,A,Ambepussa - Kurunegala - Trincomalee,84721,107740,23019,Inamaluwa,02223,Nalanda,0222,Matale,022,Central Province,02
+A0006,A,Ambepussa - Kurunegala - Trincomalee,107740,147190,39450,Ambagaswewa,07221,Habarana,0722,Polonnaruwa,072,North Central Province,07
+A0006,A,Ambepussa - Kurunegala - Trincomalee,147190,174680,27490,Kanthale,05214,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+A0006,A,Ambepussa - Kurunegala - Trincomalee,174680,192690,18010,Thamealaegamam,05220,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+A0006,A,Ambepussa - Kurunegala - Trincomalee,192690,199011,6321,Trincomalee town,05221,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+A0007,A,Avissawella - Hatton - Nuwara Eliya,0,650,650,Kaluaggala,01123,Avissawella,0112,Colombo,011,Western Province,01
+A0007,A,Avissawella - Hatton - Nuwara Eliya,650,13940,13290,Dehiowita,09221,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+A0007,A,Avissawella - Hatton - Nuwara Eliya,13940,41130,27190,Yatiyanthota,09224,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+A0007,A,Avissawella - Hatton - Nuwara Eliya,41130,57850,16720,Norton Bridge,02324,Norwood,0232,Nuwara Eliya,023,Central Province,02
+A0007,A,Avissawella - Hatton - Nuwara Eliya,57850,84750,26900,Kotagala,02322,Norwood,0232,Nuwara Eliya,023,Central Province,02
+A0007,A,Avissawella - Hatton - Nuwara Eliya,84750,115432,30682,Summerset,02313,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+A0008,A,Panadura - Nambapana - Ratnapura,0,6000,6000,Panadura,01314,Kalutara,0131,Kalutara,013,Western Province,01
+A0008,A,Panadura - Nambapana - Ratnapura,6000,14020,8020,Bandaragama,01311,Kalutara,0131,Kalutara,013,Western Province,01
+A0008,A,Panadura - Nambapana - Ratnapura,14020,20020,6000,Madurawala,01331,Horana,0133,Kalutara,013,Western Province,01
+A0008,A,Panadura - Nambapana - Ratnapura,20020,36370,16350,Ingiriya,01332,Horana,0133,Kalutara,013,Western Province,01
+A0008,A,Panadura - Nambapana - Ratnapura,36370,67437,31067,Epitawala,09111,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+A0009,A,Kandy - Jaffna,0,4525,4525,Gatambe,02112,Kandy,0211,Kandy,021,Central Province,02
+A0009,A,Kandy - Jaffna,4525,17200,12675,Malpana,02122,Kundasale,0212,Kandy,021,Central Province,02
+A0009,A,Kandy - Jaffna,17200,26500,9300,Matale,02213,Matale,0221,Matale,022,Central Province,02
+A0009,A,Kandy - Jaffna,26500,46085,19585,Dombawela,02212,Matale,0221,Matale,022,Central Province,02
+A0009,A,Kandy - Jaffna,46085,67500,21415,Nalanda,02225,Nalanda,0222,Matale,022,Central Province,02
+A0009,A,Kandy - Jaffna,67500,76540,9040,Inamaluwa,02223,Nalanda,0222,Matale,022,Central Province,02
+A0009,A,Kandy - Jaffna,76540,121630,45090,Maradankadawala,07132,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+A0009,A,Kandy - Jaffna,121630,141160,19530,Seeppukulama,07112,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0009,A,Kandy - Jaffna,141160,168170,27010,Medawacchiya,07124,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+A0009,A,Kandy - Jaffna,168170,190020,21850,Vavuniya town,04214,Vavuniya,0421,Vavuniya,042,Northern Province,04
+A0009,A,Kandy - Jaffna,190020,222550,32530,Kanagarayankulam,04212,Vavuniya,0421,Vavuniya,042,Northern Province,04
+A0009,A,Kandy - Jaffna,222550,242290,19740,Mankulam,04311,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+A0009,A,Kandy - Jaffna,242290,253960,11670,Kilinochchi town,04321,Kilinochchi,0432,Mullaitivu,043,Northern Province,04
+A0009,A,Kandy - Jaffna,253960,287980,34020,Paranthan,04323,Kilinochchi,0432,Mullaitivu,043,Northern Province,04
+A0009,A,Kandy - Jaffna,287980,314050,26070,Kaithadi,04121,Point Pedro,0412,Jaffna,041,Northern Province,04
+A0009,A,Kandy - Jaffna,314050,321049,6999,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+A0010,A,Katugastota - Kurunegala - Puttlam,0,16140,16140,Aladeniya,02111,Kandy,0211,Kandy,021,Central Province,02
+A0010,A,Katugastota - Kurunegala - Puttlam,16140,35070,18930,Mawathagama,06115,Kurunegala,0611,Kurunegala,061,North Western Province,06
+A0010,A,Katugastota - Kurunegala - Puttlam,35070,47070,12000,Kurunegala,06114,Kurunegala,0611,Kurunegala,061,North Western Province,06
+A0010,A,Katugastota - Kurunegala - Puttlam,47070,93840,46770,Dunupathanga,06123,Maho,0612,Kurunegala,061,North Western Province,06
+A0010,A,Katugastota - Kurunegala - Puttlam,93840,105140,11300,Anamaduwa,06221,Puttalam,0622,Chilaw,062,North Western Province,06
+A0010,A,Katugastota - Kurunegala - Puttlam,105140,120090,14950,Galkulama,06223,Puttalam,0622,Chilaw,062,North Western Province,06
+A0010,A,Katugastota - Kurunegala - Puttlam,120090,124528,4438,Puttalam,06226,Puttalam,0622,Chilaw,062,North Western Province,06
+A0011,A,Maradankadawela Habarana Tirikkondiadimadu,0,5000,5000,Maradankadawala,07132,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+A0011,A,Maradankadawela Habarana Tirikkondiadimadu,5000,13010,8010,Heenukkiriyawa,07131,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+A0011,A,Maradankadawela Habarana Tirikkondiadimadu,13010,44070,31060,Ambagaswewa,07221,Habarana,0722,Polonnaruwa,072,North Central Province,07
+A0011,A,Maradankadawela Habarana Tirikkondiadimadu,44070,64095,20025,Minneriya,07223,Habarana,0722,Polonnaruwa,072,North Central Province,07
+A0011,A,Maradankadawela Habarana Tirikkondiadimadu,64095,80420,16325,Kaduruwela,07211,Polonnaruwa,0721,Polonnaruwa,072,North Central Province,07
+A0011,A,Maradankadawela Habarana Tirikkondiadimadu,80420,108820,28400,Manampitiya,07212,Polonnaruwa,0721,Polonnaruwa,072,North Central Province,07
+A0011,A,Maradankadawela Habarana Tirikkondiadimadu,108820,128424,19604,Kalawanchikudi,05111,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+A0012,A,Puttalam - Trincomalee,0,3195,3195,Puttalam,06226,Puttalam,0622,Chilaw,062,North Western Province,06
+A0012,A,Puttalam - Trincomalee,3195,37270,34075,Karuwalagaswewa,06224,Puttalam,0622,Chilaw,062,North Western Province,06
+A0012,A,Puttalam - Trincomalee,37270,63645,26375,Sinharagama,07113,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0012,A,Puttalam - Trincomalee,63645,77655,14010,Thisa Wewa,07115,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0012,A,Puttalam - Trincomalee,77655,81905,4250,Mankadawala,07111,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0012,A,Puttalam - Trincomalee,81905,108245,26340,Seeppukulama,07112,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0012,A,Puttalam - Trincomalee,108245,119625,11380,Kahatagasdigiliya,07122,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+A0012,A,Puttalam - Trincomalee,119625,142815,23190,Horawpathana,07121,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+A0012,A,Puttalam - Trincomalee,142815,164650,21835,Nochchikulam,05217,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+A0012,A,Puttalam - Trincomalee,164650,180032,15382,Kanniya,05213,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+A0013,A,Galkulama - Anuradhapura,0,5900,5900,Mankadawala,07111,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0013,A,Galkulama - Anuradhapura,5900,16545,10645,Thisa Wewa,07115,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0014,A,Medawachchiya - Mannar - Talaimannar,0,14500,14500,Medawacchiya,07124,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+A0014,A,Medawachchiya - Mannar - Talaimannar,14500,43890,29390,Cheddikulam,04211,Vavuniya,0421,Vavuniya,042,Northern Province,04
+A0014,A,Medawachchiya - Mannar - Talaimannar,43890,54035,10145,Madhu,04221,Mannar,0422,Vavuniya,042,Northern Province,04
+A0014,A,Medawachchiya - Mannar - Talaimannar,54035,79960,25925,Murunkan,04223,Mannar,0422,Vavuniya,042,Northern Province,04
+A0014,A,Medawachchiya - Mannar - Talaimannar,79960,87675,7715,Mannar town,04222,Mannar,0422,Vavuniya,042,Northern Province,04
+A0014,A,Medawachchiya - Mannar - Talaimannar,87675,114998,27323,Thalai mannar,04224,Mannar,0422,Vavuniya,042,Northern Province,04
+A0015,A,Batticaloa - Tirikkondiadimadu - Trincomalee,0,15940,15940,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+A0015,A,Batticaloa - Tirikkondiadimadu - Trincomalee,15940,78210,62270,Walachchenei,05113,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+A0015,A,Batticaloa - Tirikkondiadimadu - Trincomalee,78210,94500,16290,Mavatichenai,05215,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+A0015,A,Batticaloa - Tirikkondiadimadu - Trincomalee,94500,113990,19490,Muthur,05216,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+A0015,A,Batticaloa - Tirikkondiadimadu - Trincomalee,113990,131841,17851,Chinabay,05212,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+A0016,A,Beragala - Hali-Ela,0,25400,25400,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+A0016,A,Beragala - Hali-Ela,25400,38296,12896,Hali-Ela,08122,Badulla,0812,Badulla,081,UVA Province,08
+A0017,A,Galle - Deniyaya - Madampe,0,17870,17870,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+A0017,A,Galle - Deniyaya - Madampe,17870,23995,6125,Weligama,03212,Matara,0321,Matara,032,Southern Province,03
+A0017,A,Galle - Deniyaya - Madampe,23995,58700,34705,Indikatudeniya,03222,Deniyaya,0322,Matara,032,Southern Province,03
+A0017,A,Galle - Deniyaya - Madampe,58700,86490,27790,Porupitiya,03223,Deniyaya,0322,Matara,032,Southern Province,03
+A0017,A,Galle - Deniyaya - Madampe,86490,112135,25645,Ulhiduwawa (sub),09135,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+A0017,A,Galle - Deniyaya - Madampe,112135,132850,20715,Rakwana,09134,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+A0017,A,Galle - Deniyaya - Madampe,132850,142527,9677,Madampe,09122,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+A0018,A,Pelmadulla - Embilipitiya - Nonagama,0,19950,19950,Madampe,09122,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+A0018,A,Pelmadulla - Embilipitiya - Nonagama,19950,49910,29960,Balawinna,09131,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+A0018,A,Pelmadulla - Embilipitiya - Nonagama,49910,68060,18150,Embilipitiya,09132,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+A0018,A,Pelmadulla - Embilipitiya - Nonagama,68060,84793,16733,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+A0019,A,Polgahawela -Kegalle,0,2925,2925,Bulugolla,06111,Kurunegala,0611,Kurunegala,061,North Western Province,06
+A0019,A,Polgahawela -Kegalle,2925,11782,8857,Dewalegama,09212,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+A0020,A,Anuradhapura - Rambewa,0,14493,14493,Mankadawala,07111,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0021,A,Kegalle - Bulathkohupitiya - Karawanella,0,580,580,Dewalegama,09212,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+A0021,A,Kegalle - Bulathkohupitiya - Karawanella,580,15855,15275,Hettimulla,09213,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+A0021,A,Kegalle - Bulathkohupitiya - Karawanella,15855,35720,19865,Weekada,09223,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+A0021,A,Kegalle - Bulathkohupitiya - Karawanella,35720,41537,5817,Morawatta,09222,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+A0022,A,Passara - Moneragala,0,7100,7100,Debadda,08121,Badulla,0812,Badulla,081,UVA Province,08
+A0022,A,Passara - Moneragala,7100,26165,19065,Bibile,08221,Bibile,0822,Monaragala,082,UVA Province,08
+A0022,A,Passara - Moneragala,26165,32850,6685,Pelwatta,08212,Monaragala,0821,Monaragala,082,UVA Province,08
+A0023,A,Wellawaya - Ella - Kumbalwela,0,14080,14080,Pelwatta,08212,Monaragala,0821,Monaragala,082,UVA Province,08
+A0023,A,Wellawaya - Ella - Kumbalwela,14080,30242,16162,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+A0024,A,Matara - Akuressa,0,15910,15910,Weligama,03212,Matara,0321,Matara,032,Southern Province,03
+A0024,A,Matara - Akuressa,15910,20022,4112,Indikatudeniya,03222,Deniyaya,0322,Matara,032,Southern Province,03
+A0025,A,Siyambalanduwa - Damana - Ampara,0,24070,24070,Siyambalanduwa,08222,Bibile,0822,Monaragala,082,UVA Province,08
+A0025,A,Siyambalanduwa - Damana - Ampara,24070,57401,33331,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+A0026,A,Kandy - Mahiyangana - Padiyatalawa,0,4060,4060,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+A0026,A,Kandy - Mahiyangana - Padiyatalawa,4060,14015,9955,Malpana,02122,Kundasale,0212,Kandy,021,Central Province,02
+A0026,A,Kandy - Mahiyangana - Padiyatalawa,14015,54820,40805,Udadumbara,02124,Kundasale,0212,Kandy,021,Central Province,02
+A0026,A,Kandy - Mahiyangana - Padiyatalawa,54820,71180,16360,Gurulupotha,02121,Kundasale,0212,Kandy,021,Central Province,02
+A0026,A,Kandy - Mahiyangana - Padiyatalawa,71180,97780,26600,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+A0026,A,Kandy - Mahiyangana - Padiyatalawa,97780,101366,3586,Padiyatalawa,10122,Dehiatthakandiya,1012,Ampara,101,Add.P Akkaraipattu,10
+A0027,A,Ampara - Uhana - MahaOya,0,33025,33025,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+A0027,A,Ampara - Uhana - MahaOya,33025,57685,24660,Padiyatalawa,10122,Dehiatthakandiya,1012,Ampara,101,Add.P Akkaraipattu,10
+A0028,A,Padeniya - Anuradhapura,0,9000,9000,Dunupathanga,06123,Maho,0612,Kurunegala,061,North Western Province,06
+A0028,A,Padeniya - Anuradhapura,9000,23990,14990,Balalla,06122,Maho,0612,Kurunegala,061,North Western Province,06
+A0028,A,Padeniya - Anuradhapura,23990,54135,30145,Ambanpola,06121,Maho,0612,Kurunegala,061,North Western Province,06
+A0028,A,Padeniya - Anuradhapura,54135,73960,19825,Thalawa,07114,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0028,A,Padeniya - Anuradhapura,73960,80706,6746,Thisa Wewa,07115,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+A0029,A,Vavuniya - Horowopotana,0,9645,9645,Vavuniya town,04214,Vavuniya,0421,Vavuniya,042,Northern Province,04
+A0029,A,Vavuniya - Horowopotana,9645,34990,25345,Kebithigollewa,07123,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+A0029,A,Vavuniya - Horowopotana,34990,46228,11238,Horawpathana,07121,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+A0030,A,Vavuniya - Parayanalankulam,0,9890,9890,Vavuniya town,04214,Vavuniya,0421,Vavuniya,042,Northern Province,04
+A0030,A,Vavuniya - Parayanalankulam,9890,35632,25742,Cheddikulam,04211,Vavuniya,0421,Vavuniya,042,Northern Province,04
+A0031,A,Karativu - Ampara,0,18070,18070,Samanthurai,10222,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+A0031,A,Karativu - Ampara,18070,22332,4262,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+A0032,A,Navakkuli - Kerativu - Mannar,0,17350,17350,Kaithadi,04121,Point Pedro,0412,Jaffna,041,Northern Province,04
+A0032,A,Navakkuli - Kerativu - Mannar,17350,61800,44450,Nallur,04322,Kilinochchi,0432,Mullaitivu,043,Northern Province,04
+A0032,A,Navakkuli - Kerativu - Mannar,61800,80070,18270,Vellankulam,04225,Mannar,0422,Vavuniya,042,Northern Province,04
+A0032,A,Navakkuli - Kerativu - Mannar,80070,104918,24848,Mannar town,04222,Mannar,0422,Vavuniya,042,Northern Province,04
+A0033,A,Ja-Ela - Ekala - Gampaha - Yakkala,0,6480,6480,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+A0033,A,Ja-Ela - Ekala - Gampaha - Yakkala,6480,18071,11591,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+A0034,A,Mankulam - Mullaitivu,0,15975,15975,Mankulam,04311,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+A0034,A,Mankulam - Mullaitivu,15975,37990,22015,Oddusuddan,04313,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+A0034,A,Mankulam - Mullaitivu,37990,49105,11115,Mulativu,04312,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+A0035,A,Paranthan - Kachchai - Mullaitivu,0,21790,21790,Paranthan,04323,Kilinochchi,0432,Mullaitivu,043,Northern Province,04
+A0035,A,Paranthan - Kachchai - Mullaitivu,21790,52458,30668,Mulativu,04312,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+B0001,B,Akkaraipattu - Warapathanchenai,0,18910,18910,Akkaraipattu,10211,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0002,B,Akkaraipattu - Sagamam,0,18430,18430,Thirukkovil,10213,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0003,B,Akuressa - Kamburupitiya,0,8249,8249,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0003,B,Akuressa - Kamburupitiya,8249,13140,4891,Indikatudeniya,03222,Deniyaya,0322,Matara,032,Southern Province,03
+B0004,B,Akuressa - Ketanwila,0,7230,7230,Indikatudeniya,03222,Deniyaya,0322,Matara,032,Southern Province,03
+B0005,B,Aladeniya - Iriyagama,0,9560,9560,Aladeniya,02111,Kandy,0211,Kandy,021,Central Province,02
+B0006,B,Alakolanga - Pottepitiya,0,8650,8650,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+B0007,B,Alawatugoda - Ankumbura - Keppetigala,0,14320,14320,Palipana,02113,Kandy,0211,Kandy,021,Central Province,02
+B0008,B,Alawwa - Dampelessa,0,14650,14650,Metiyagane,06133,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0009,B,Alawwa - Maharagama,0,14700,14700,Metiyagane,06133,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0010,B,Allai Kantale,0,2210,2210,Kanthale,05214,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0010,B,Allai Kantale,2210,41360,39150,Allai Kantale,05211,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0011,B,"Allan Avenue, Dehiwela",0,1950,1950,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0012,B,Aluthgama - Wigoda,0,4965,4965,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0012,B,Aluthgama - Wigoda,4965,7955,2990,Minuwangoda,01213,Gampaha,0121,Gampaha,012,Western Province,01
+B0013,B,Alvai - Nelliady - Tunnalai,0,8240,8240,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0014,B,Ambalangoda - Elpitiya - Pitigala,0,15470,15470,Karandeniya,03112,Galle,0311,Galle,031,Southern Province,03
+B0014,B,Ambalangoda - Elpitiya - Pitigala,15470,29600,14130,Thalgaswala,03121,Hiniduma,0312,Galle,031,Southern Province,03
+B0015,B,Ambatenne - Bokkawela - Arambekade,0,19080,19080,Palipana,02113,Kandy,0211,Kandy,021,Central Province,02
+B0016,B,Ampara Air Port Road,0,5540,5540,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+B0018,B,Ampilanthurai - Veeramunai,0,14865,14865,Kalawanchikudi,05111,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0018,B,Ampilanthurai - Veeramunai,14865,26910,12045,Samanthurai,10222,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0019,B,Anamaduwa - Uswewa - Galgamuwa,0,24180,24180,Anamaduwa,06221,Puttalam,0622,Chilaw,062,North Western Province,06
+B0019,B,Anamaduwa - Uswewa - Galgamuwa,24180,39040,14860,Ambanpola,06121,Maho,0612,Kurunegala,061,North Western Province,06
+B0021,B,Andalla - Tissa,0,6450,6450,Weerawila,03322,Hambantota,0332,Hambantota,033,Southern Province,03
+B0024,B,Approach Road to Aerodrome Ratmalana,0,1590,1590,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0025,B,Approach Road to Laxapana Power House,0,11390,11390,Norton Bridge,02324,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0026,B,Approach Road to Midford Power House,0,970,970,Norton Bridge,02324,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0028,B,Approach Road to Wilpattu Sanctuary,0,7730,7730,Sinharagama,07113,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0031,B,Arasady - Malkampiddy,0,5170,5170,Samanthurai,10222,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0032,B,Attidiya - Mt.Lavinia,0,1970,1970,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0033,B,Avarangal - Thondamanaru,0,5880,5880,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0034,B,Ayagama - Kukulegama,0,16210,16210,Kalawana,09112,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0035,B,Badalkumbura - Buttala - Sella Kataragama,0,55986,55986,Pelwatta,08212,Monaragala,0821,Monaragala,082,UVA Province,08
+B0036,B,Badulla - Karametiya - Andaulpotha,0,19965,19965,Hali-Ela,08122,Badulla,0812,Badulla,081,UVA Province,08
+B0036,B,Badulla - Karametiya - Andaulpotha,19965,47380,27415,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+B0037,B,"Baladaksha Mawatha, Galle",0,520,520,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0038,B,Balangoda - Bowatte - Kaltota,0,2915,2915,Horaketiya,09121,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0038,B,Balangoda - Bowatte - Kaltota,2915,28380,25465,Molamure,09123,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0039,B,Balangoda - Rassagala - Uwella,0,14130,14130,Horaketiya,09121,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0040,B,Balapitiya - Watugedera,0,3410,3410,Karandeniya,03112,Galle,0311,Galle,031,Southern Province,03
+B0041,B,"Bandaranaika Mawatha, Galle",0,1090,1090,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0042,B,Bandarawela - Liyangahawela - Poonagala,0,21200,21200,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0043,B,Bandarawela - Uva Hihglands - Ettampitiya,0,4900,4900,Mirahawatta,08112,Bandarawela,0811,Badulla,081,UVA Province,08
+B0043,B,Bandarawela - Uva Hihglands - Ettampitiya,4900,16050,11150,Hali-Ela,08122,Badulla,0812,Badulla,081,UVA Province,08
+B0044,B,Bandarawela - Welimada,0,20160,20160,Mirahawatta,08112,Bandarawela,0811,Badulla,081,UVA Province,08
+B0045,B,Bangadeniya - Andigama - Anamaduwa,0,24050,24050,Chilaw,06211,Chilaw,0621,Chilaw,062,North Western Province,06
+B0045,B,Bangadeniya - Andigama - Anamaduwa,24050,30070,6020,Andigama,06222,Puttalam,0622,Chilaw,062,North Western Province,06
+B0045,B,Bangadeniya - Andigama - Anamaduwa,30070,38270,8200,Anamaduwa,06221,Puttalam,0622,Chilaw,062,North Western Province,06
+B0046,B,Bar Road - Batticaloa,0,4774,4774,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0047,B,Battaramulla - Pannipitiya,0,3680,3680,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0047,B,Battaramulla - Pannipitiya,3680,7420,3740,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0048,B,Batukotuwa - Medirigiriya,0,8610,8610,Minneriya,07223,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0049,B,"Bazaar Street, Ambalangoda",0,1400,1400,Karandeniya,03112,Galle,0311,Galle,031,Southern Province,03
+B0050,B,"Bazaar Street, Gampaha",0,120,120,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0051,B,Bazzar Street and Edingburgh Street,0,550,550,Kurunegala,06114,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0052,B,"Bazzar Street, Vavuniya",0,2030,2030,Vavuniya town,04214,Vavuniya,0421,Vavuniya,042,Northern Province,04
+B0053,B,Beach Road Mullaitivu,0,852,852,Mulativu,04312,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+B0054,B,Beliatta - Walasmulla,0,15650,15650,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0055,B,Bentara - Uragaha - Elpitiya,0,26600,26600,Karandeniya,03112,Galle,0311,Galle,031,Southern Province,03
+B0056,B,Bibile - Medagama - Nakkala,0,33030,33030,Bibile,08221,Bibile,0822,Monaragala,082,UVA Province,08
+B0057,B,Bibile - Uraniya - Mahiyangana,0,11295,11295,Bibile,08221,Bibile,0822,Monaragala,082,UVA Province,08
+B0057,B,Bibile - Uraniya - Mahiyangana,11295,39400,28105,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+B0058,B,Biyanwila - Ganemulla,0,8045,8045,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0059,B,Bo Tree Road,0,1860,1860,Kokkawila,06213,Chilaw,0621,Chilaw,062,North Western Province,06
+B0060,B,Bogahawewa - Pulmuddai,0,12100,12100,Padaviya,07125,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0060,B,Bogahawewa - Pulmuddai,12100,27664,15564,Pulmuddai,05219,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0061,B,Boossa - Hegoda,0,1600,1600,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0062,B,Borella - Rajagiriya (CMC Limits to Filling Station - Rajagiriya),0,1220,1220,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0063,B,Botale - Mirigama,0,5620,5620,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0064,B,Bowatenna Access Road,0,2410,2410,Nalanda,02225,Nalanda,0222,Matale,022,Central Province,02
+B0065,B,Bowatte - Padiwela,0,6190,6190,Koswattha,06132,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0066,B,Boyagama - Mandandawala,0,1990,1990,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+B0067,B,Bulathkohupitiya - Dedugala,0,12080,12080,Weekada,09223,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0068,B,Ingiriya - Halwatura - Egaloya,0,9020,9020,Kalawellawa,01333,Horana,0133,Kalutara,013,Western Province,01
+B0069,B,Buwelikada - Lewella,0,1325,1325,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0070,B,By pass road via Asgiriya,0,1640,1640,Gatambe,02112,Kandy,0211,Kandy,021,Central Province,02
+B0071,B,Carolina - Norton - Wanarajah,0,17335,17335,Norton Bridge,02324,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0071,B,Carolina - Norton - Wanarajah,17335,23330,5995,Norwood,02325,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0072,B,Cemetery Road (Gampaha),0,70,70,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0073,B,Chadayantalawa - Uhana,0,12350,12350,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+B0074,B,Chavakachcheri - Kachchai,0,5760,5760,Kaithadi,04121,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0075,B,Chavakachcheri - Puloly,0,9940,9940,Kaithadi,04121,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0075,B,Chavakachcheri - Puloly,9940,18885,8945,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0076,B,Chavakachcheri - Thannankilappu,0,3430,3430,Kaithadi,04121,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0077,B,Chavalakadai - Chadayantalawa,0,7835,7835,Chavalakadi,10221,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0078,B,"Chilaw Road, Negombo",0,1210,1210,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0079,B,Chilaw - Wariyapola,0,13120,13120,Kokkawila,06213,Chilaw,0621,Chilaw,062,North Western Province,06
+B0079,B,Chilaw - Wariyapola,13120,44760,31640,Koswattha,06132,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0079,B,Chilaw - Wariyapola,44760,51200,6440,Dunupathanga,06123,Maho,0612,Kurunegala,061,North Western Province,06
+B0080,B,Chundikuli - Colombouthurai,0,2531,2531,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0081,B,Chunnakam Power Station Road,0,276,276,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0082,B,Circular Road Kurunegala,0,9925,9925,Kurunegala,06114,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0083,B,"Circular Road, Tangalle",0,1114,1114,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0084,B,Colombo - Horana,0,1065,1065,CMC,01110,Colombo,0111,Colombo,011,Western Province,01
+B0084,B,Colombo - Horana,1065,3455,2390,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0084,B,Colombo - Horana,3455,21645,18190,Kesbewa,01124,Avissawella,0112,Colombo,011,Western Province,01
+B0084,B,Colombo - Horana,21645,28198,6553,Madurawala,01331,Horana,0133,Kalutara,013,Western Province,01
+B0085,B,Cross Road - Medawachchiya,0,380,380,Medawacchiya,07124,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0086,B,Dambagahapitiya - Pinnagolla - Arawa - Meegahakiula,0,13110,13110,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+B0087,B,Dambokka - Katupitiya,0,8520,8520,Bulugolla,06111,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0088,B,Dandagamuwa - Udawela,0,13085,13085,Paragammana,06135,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0089,B,Danikittawa - Ambanpola,0,22361,22361,Balalla,06122,Maho,0612,Kurunegala,061,North Western Province,06
+B0090,B,Danowita - Mirigama,0,8050,8050,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0091,B,Daulagala - Watadeniya,0,6850,6850,Meewathura,02133,Kadugannawa,0213,Kandy,021,Central Province,02
+B0092,B,Deegawapi Temple Road,0,5740,5740,Samanthurai,10222,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0093,B,Dehiowita - Deraniyagala - Noori,0,27790,27790,Dehiowita,09221,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0094,B,Dehiwela - Maharagama,0,2870,2870,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0094,B,Dehiwela - Maharagama,2870,7530,4660,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0095,B,Delgoda - Dompe - Giridara,0,1940,1940,Pattiwila,01214,Gampaha,0121,Gampaha,012,Western Province,01
+B0095,B,Delgoda - Dompe - Giridara,1940,11990,10050,Pugoda,01233,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0096,,Dematagoda - Wellampitiya,0,590,590,CMC,01110,Colombo,0111,Colombo,011,Western Province,01
+B0096,B,Dematagoda - Wellampitiya,590,2370,1780,Orugodawatta,01114,Colombo,0111,Colombo,011,Western Province,01
+B0097,B,Demodera - Spring Valley - Badulla,0,21280,21280,Hali-Ela,08122,Badulla,0812,Badulla,081,UVA Province,08
+B0098,B,Denegama - Mulatiyana,0,12007,12007,Beragama,03221,Deniyaya,0322,Matara,032,Southern Province,03
+B0099,B,Deniyaya - Viharahena,0,7950,7950,Porupitiya,03223,Deniyaya,0322,Matara,032,Southern Province,03
+B0100,B,Dickwella - Jangulla - Talpitigala,0,23450,23450,Hali-Ela,08122,Badulla,0812,Badulla,081,UVA Province,08
+B0101,B,Dikwella - Beliatte,0,3970,3970,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0101,B,Dikwella - Beliatte,3970,12800,8830,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0102,B,Diyatalawa - Aluthwela North,0,2135,2135,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0103,B,Diyatalawa - Aluthwela South,0,2440,2440,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0104,B,Diyatalawa - Mirahawatta,0,6440,6440,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0105,B,Diyatalawa - Welanhinna - Walagahawela,0,5145,5145,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0106,B,Dodanduwa - Gonapinuwala,0,3900,3900,Baddegama,03111,Galle,0311,Galle,031,Southern Province,03
+B0107,B,Dondra Light House Road,0,1080,1080,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0108,B,Dunagaha - Nilpanagoda,0,2950,2950,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0108,B,Dunagaha - Nilpanagoda,2950,5750,2800,Minuwangoda,01213,Gampaha,0121,Gampaha,012,Western Province,01
+B0109,B,"Edmand Mawatha, Galle",0,3490,3490,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0110,B,Eheliyagoda - Dehiowita,0,3110,3110,Parakaduwa,09114,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0110,B,Eheliyagoda - Dehiowita,3110,16460,13350,Dehiowita,09221,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0111,B,Ekala - Kotadeniyawa,0,2985,2985,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+B0111,B,Ekala - Kotadeniyawa,2985,15145,12160,Minuwangoda,01213,Gampaha,0121,Gampaha,012,Western Province,01
+B0111,B,Ekala - Kotadeniyawa,15145,27270,12125,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0112,B,Elahera - Giritale,0,30025,30025,Elahera,07222,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0112,B,Elahera - Giritale,30025,39925,9900,Minneriya,07223,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0113,B,Ella - Passara,0,4870,4870,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0113,B,Ella - Passara,4870,26630,21760,Debadda,08121,Badulla,0812,Badulla,081,UVA Province,08
+B0114,B,Elpitiya - Avittawa - Lewwanduwa,0,9290,9290,Thalgaswala,03121,Hiniduma,0312,Galle,031,Southern Province,03
+B0114,B,Elpitiya - Avittawa - Lewwanduwa,9290,27045,17755,Horawala,01322,Agalawatta,0132,Kalutara,013,Western Province,01
+B0115,B,Embilipitiya - Panamure - Bulutota,0,37750,37750,Embilipitiya,09132,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0116,B,Embilmeegama - Daulagala - Penideniya,0,11130,11130,Meewathura,02133,Kadugannawa,0213,Kandy,021,Central Province,02
+B0117,B,Eppawala - Timbiriwewa,0,11375,11375,Thalawa,07114,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0118,B,Eriyagama - Penideniya,0,1012,1012,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+B0119,B,Erukkalampuddy - Causeway,0,795,795,Mannar town,04222,Mannar,0422,Vavuniya,042,Northern Province,04
+B0120,B,Etulkotte - Mirihana - Kohuwela,0,5680,5680,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0121,B,Gadaladeniya - Paranapattiya,0,5180,5180,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+B0122,B,Galagedara - Rambukkana,0,18505,18505,Aladeniya,02111,Kandy,0211,Kandy,021,Central Province,02
+B0123,B,Galagedera - Horana,0,4785,4785,Galagedara,01121,Avissawella,0112,Colombo,011,Western Province,01
+B0123,B,Galagedera - Horana,4785,14015,9230,Ingiriya,01332,Horana,0133,Kalutara,013,Western Province,01
+B0123,B,Galagedera - Horana,14015,18615,4600,Madurawala,01331,Horana,0133,Kalutara,013,Western Province,01
+B0124,B,Galagoda - Weligepola,0,6110,6110,Molamure,09123,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0125,B,Galaha - Pupuressa - Delpitiya (Section 2),0,27552,27552,Gampola,02131,Kadugannawa,0213,Kandy,021,Central Province,02
+B0126,B,Galgamuwa - Nikawewa,0,19990,19990,Ambanpola,06121,Maho,0612,Kurunegala,061,North Western Province,06
+B0126,B,Galgamuwa - Nikawewa,19990,24790,4800,Koonwewa,06124,Maho,0612,Kurunegala,061,North Western Province,06
+B0127,B,Galigomuwa - Ruwanwella,0,16320,16320,Abanpitiya,09211,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0127,B,Galigomuwa - Ruwanwella,16320,21570,5250,Weekada,09223,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0128,B,Galle - Baddegama,0,7070,7070,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0128,B,Galle - Baddegama,7070,18290,11220,Baddegama,03111,Galle,0311,Galle,031,Southern Province,03
+B0129,B,Galle - Udugama,0,16000,16000,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0129,B,Galle - Udugama,16000,35030,19030,Kottawa,03122,Hiniduma,0312,Galle,031,Southern Province,03
+B0130,B,Galle - Wakwella,0,7830,7830,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0131,B,Galmadu - Muwangala - Hingurana,0,7010,7010,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+B0132,B,Gampola - Craighead,0,15180,15180,Gampola,02131,Kadugannawa,0213,Kandy,021,Central Province,02
+B0133,B,Ganewelpola - Dachchahalmillewa,0,27660,27660,Heenukkiriyawa,07131,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0133,B,Ganewelpola - Dachchahalmillewa,27660,46070,18410,Kahatagasdigiliya,07122,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0134,B,Gangodawila - Boralesgamuwa,0,2630,2630,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0135,B,Geli Oya - Embekke,0,4175,4175,Meewathura,02133,Kadugannawa,0213,Kandy,021,Central Province,02
+B0136,B,Gevilipitiya - Hettimulla,0,15105,15105,Hettimulla,09213,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0137,B,Ginoya - Bolawatte - Dankotuwa,0,4530,4530,Haldaduwana,06212,Chilaw,0621,Chilaw,062,North Western Province,06
+B0138,B,Gintota Plywood Factory Road,0,4320,4320,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0139,B,Gonadeniya - Udugama,0,4440,4440,Thalgaswala,03121,Hiniduma,0312,Galle,031,Southern Province,03
+B0141,B,Hakmana - Beliatte - Tangalle,0,5640,5640,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0141,B,Hakmana - Beliatte - Tangalle,5640,18765,13125,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0142,B,Hakmana - Meella - Talahaganwaduwa,0,7255,7255,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0142,B,Hakmana - Meella - Talahaganwaduwa,7255,11110,3855,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0143,B,Halpatota - Kurundugahahetekma,0,15820,15820,Baddegama,03111,Galle,0311,Galle,031,Southern Province,03
+B0144,B,Halwatura Estate Road,0,1010,1010,Kalawellawa,01333,Horana,0133,Kalutara,013,Western Province,01
+B0145,B,Hanwella Junction Road,0,850,850,Kaluaggala,01123,Avissawella,0112,Colombo,011,Western Province,01
+B0146,B,Hanwella - Pugoda - Weke - Urapola,0,230,230,Kaluaggala,01123,Avissawella,0112,Colombo,011,Western Province,01
+B0146,B,Hanwella - Pugoda - Weke - Urapola,230,24385,24155,Pugoda,01233,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0147,B,Haputale - Dambetenne,0,9040,9040,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0148,B,Harangala - Kalapitiya - Kumbaloluwa,0,10660,10660,Harangala,02321,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0148,B,Harangala - Kalapitiya - Kumbaloluwa,10660,16700,6040,Ramboda,02312,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0149,B,Hatton - Maskeliya - Dalhousie,0,12021,12021,Norwood,02325,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0149,B,Hatton - Maskeliya - Dalhousie,12021,31760,19739,Maskeliya,02323,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0150,B,Hedeniya - Pujapitiya,0,7570,7570,Palipana,02113,Kandy,0211,Kandy,021,Central Province,02
+B0151,B,Hendala - Hunupitiya,0,3755,3755,Wattala,01224,Negambo,0122,Gampaha,012,Western Province,01
+B0152,B,Mattakkuliya Uswetakeiyawa Pinwattha,0,7435,7435,Wattala,01224,Negambo,0122,Gampaha,012,Western Province,01
+B0153,B,Hikkaduwa - Baddegama - Nilhena,0,15115,15115,Baddegama,03111,Galle,0311,Galle,031,Southern Province,03
+B0154,B,Hindagala - Naranwita - Gampola,0,13040,13040,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+B0155,B,Hingurakgoda - Yoda Ela,0,5370,5370,Minneriya,07223,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0156,B,Hiniduma - Opatha - Pitabeddera,0,24970,24970,Malgalla,03123,Hiniduma,0312,Galle,031,Southern Province,03
+B0156,B,Hiniduma - Opatha - Pitabeddera,24970,30450,5480,Indikatudeniya,03222,Deniyaya,0322,Matara,032,Southern Province,03
+B0157,B,Horana - Anguruwatota - Aluthgama,0,20995,20995,Madurawala,01331,Horana,0133,Kalutara,013,Western Province,01
+B0157,B,Horana - Anguruwatota - Aluthgama,20995,27000,6005,Kalutara,01312,Kalutara,0131,Kalutara,013,Western Province,01
+B0157,B,Horana - Anguruwatota - Aluthgama,27000,32000,5000,Bellana,01321,Agalawatta,0132,Kalutara,013,Western Province,01
+B0157,B,Horana - Anguruwatota - Aluthgama,32000,48670,16670,Horawala,01322,Agalawatta,0132,Kalutara,013,Western Province,01
+B0157,B,Horana - Anguruwatota - Aluthgama,48670,53780,5110,Naboda,01313,Kalutara,0131,Kalutara,013,Western Province,01
+B0158,B,Horawela - Pelawatte - Pitigala,0,20790,20790,Horawala,01322,Agalawatta,0132,Kalutara,013,Western Province,01
+B0158,B,Horawela - Pelawatte - Pitigala,20790,25650,4860,Thalgaswala,03121,Hiniduma,0312,Galle,031,Southern Province,03
+B0159,B,Ibbagamuwa - Kumbukgete - Madagalla,0,15980,15980,Kiribamuna,06113,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0159,B,Ibbagamuwa - Kumbukgete - Madagalla,15980,34715,18735,Koonwewa,06124,Maho,0612,Kurunegala,061,North Western Province,06
+B0160,B,Idangoda - Ayagama,0,13600,13600,Epitawala,09111,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0161,B,Imbulgoda - Weliweriya,0,4455,4455,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0162,B,Inamaluwa - Sigiriya,0,8865,8865,Inamaluwa,02223,Nalanda,0222,Matale,022,Central Province,02
+B0163,B,Ingiriya - Halwatura ,0,2980,2980,Ingiriya,01332,Horana,0133,Kalutara,013,Western Province,01
+B0164,B,Jaffna Junction - Sri Maha Bodhi,0,1500,1500,Mankadawala,07111,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0165,B,Kachcheri Beach Fort Road,0,3460,3460,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0166,B,Kadahapola - Rambawewa,0,18900,18900,Nakkawatta,06134,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0167,B,Kadawalagedara - Vitikuliya,0,14000,14000,Dunupathanga,06123,Maho,0612,Kurunegala,061,North Western Province,06
+B0168,B,Kadawata - Ragama - Welisara,0,3000,3000,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0168,B,Kadawata - Ragama - Welisara,3000,7940,4940,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+B0169,B,Kadawatha - Mawaramandiya,0,3500,3500,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0170,B,Kadduwan - Mallakam - Chankanai,0,11315,11315,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0171,B,Kadduwan - Myliddy,0,3720,3720,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0172,B,Kadugannawa - Gampola,0,11375,11375,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+B0172,B,Kadugannawa - Gampola,11375,16945,5570,Gampola,02131,Kadugannawa,0213,Kandy,021,Central Province,02
+B0173,B,Kadugannawa - Pottepitiya,0,8135,8135,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+B0174,B,Kaduwela - Athurugiriya,0,9490,9490,Kaduwela,01111,Colombo,0111,Colombo,011,Western Province,01
+B0175,B,Kahambiliyagoda - Suriyagoda,0,400,400,Karandeniya,03112,Galle,0311,Galle,031,Southern Province,03
+B0176,B,Kahawa - Batapola,0,8360,8360,Baddegama,03111,Galle,0311,Galle,031,Southern Province,03
+B0177,B,Kahawatte - Ela-Bemmullegedara,0,12210,12210,Kiralabokka,06112,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0178,B,Kakkapalliya - Thambagalla,0,6820,6820,Kokkawila,06213,Chilaw,0621,Chilaw,062,North Western Province,06
+B0179,B,Kalagedihena - Veyangoda,0,4020,4020,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0180,B,Kalalpitiya - Ukuwala - Elkaduwa,0,13200,13200,Alupothuwila,02211,Matale,0221,Matale,022,Central Province,02
+B0181,B,Kalawana - Depdene - Rakwana,0,15010,15010,Kalawana,09112,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0181,B,Kalawana - Depdene - Rakwana,15010,45880,30870,Pothupitiya (sub),09133,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0182,B,Kalawewa - Avukana,0,4535,4535,Vijithapura,07133,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0183,B,Kaleliya - Pallewela - Medagampitiya,0,10200,10200,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0184,B,Kalkudah Road,0,5640,5640,Walachchenei,05113,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0185,B,Kalkudah - Valachchenai,0,4420,4420,Walachchenei,05113,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0186,B,Kalmunai Sea View Road,0,1060,1060,Chavalakadi,10221,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0187,B,Kalmunai - Chavalakadai,0,4400,4400,Chavalakadi,10221,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0188,B,Kaluaggala - Labugama,0,13615,13615,Kaluaggala,01123,Avissawella,0112,Colombo,011,Western Province,01
+B0189,B,Kalugala - Polpitiya - Laxapana,0,11430,11430,Norton Bridge,02324,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0190,B,Kalugamuwa - Wilakatupotha,0,8855,8855,Kiralabokka,06112,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0190,B,Kalugamuwa - Wilakatupotha,8855,21190,12335,Dunupathanga,06123,Maho,0612,Kurunegala,061,North Western Province,06
+B0191,B,Kalutara - Nagoda,0,5655,5655,Kalutara,01312,Kalutara,0131,Kalutara,013,Western Province,01
+B0192,B,Kandasamykovil - Kaluthaipiddy,0,3485,3485,Velanai,04113,Jaffna,0411,Jaffna,041,Northern Province,04
+B0193,B,Kandasamykovil - Nachchimarkovil,0,2430,2430,Velanai,04113,Jaffna,0411,Jaffna,041,Northern Province,04
+B0194,B,Kandaswamy Mawatha,0,1150,1150,Matale,02213,Matale,0221,Matale,022,Central Province,02
+B0195,B,Kandy - Kirimetiya,0,14960,14960,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0196,B,Kantale Perathuveli Road,0,3040,3040,Kanthale,05214,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0197,B,Karainagar Circular Road,0,7080,7080,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0198,B,Karaiyoor Reclamation,0,1580,1580,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0199,B,Karandupona - Rambukkana,0,8875,8875,Rambukkana,09215,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0200,B,Karappikade Extension Road,0,410,410,Medawacchiya,07124,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0201,B,Karuwalagaswewa - Miyallewa,0,14005,14005,Karuwalagaswewa,06224,Puttalam,0622,Chilaw,062,North Western Province,06
+B0201,B,Karuwalagaswewa - Miyallewa,14005,19300,5295,Anamaduwa,06221,Puttalam,0622,Chilaw,062,North Western Province,06
+B0202,B,Kataragama - Sella-Kataragama,0,5070,5070,Weerawila,03322,Hambantota,0332,Hambantota,033,Southern Province,03
+B0203,B,Katpaha - Pulliar Kovil Road,0,1720,1720,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0204,B,Katubedde - Kospelena,0,1800,1800,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0205,B,Katugastota - Madawala - Bambarella,0,7110,7110,Malpana,02122,Kundasale,0212,Kandy,021,Central Province,02
+B0205,B,Katugastota - Madawala - Bambarella,7110,33820,26710,Panwila,02123,Kundasale,0212,Kandy,021,Central Province,02
+B0206,B,Katugastota - Medawela,0,9335,9335,Palipana,02113,Kandy,0211,Kandy,021,Central Province,02
+B0207,B,Katukurunda - Neboda,0,16650,16650,Naboda,01313,Kalutara,0131,Kalutara,013,Western Province,01
+B0208,B,Katunayake - Veyangoda,0,7000,7000,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0208,B,Katunayake - Veyangoda,7000,18910,11910,Minuwangoda,01213,Gampaha,0121,Gampaha,012,Western Province,01
+B0208,B,Katunayake - Veyangoda,18910,22240,3330,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0209,B,Kebithigollewa Extension Road,0,1920,1920,Medawacchiya,07124,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0210,B,Kebithigollewa New Town Road,0,1010,1010,Kebithigollewa,07123,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0211,B,Kebithigollewa - Padaviya,0,15000,15000,Kebithigollewa,07123,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0211,B,Kebithigollewa - Padaviya,15000,33670,18670,Padaviya,07125,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0212,B,Kekirawa - Ganewelpola,0,6950,6950,Heenukkiriyawa,07131,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0213,B,Kekirawa - Talawa,0,17320,17320,Maradankadawala,07132,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0213,B,Kekirawa - Talawa,17320,37580,20260,Thalawa,07114,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0214,B,Kelaniya - Mudungoda,0,18460,18460,Pattiwila,01214,Gampaha,0121,Gampaha,012,Western Province,01
+B0214,B,Kelaniya - Mudungoda,18460,28520,10060,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0215,B,Kelaniya - Wedamulla (Waragoda),0,3300,3300,Pattiwila,01214,Gampaha,0121,Gampaha,012,Western Province,01
+B0216,B,Kesbewa - Kindelpitiya - Bandaragama,0,4520,4520,Kesbewa,01124,Avissawella,0112,Colombo,011,Western Province,01
+B0216,B,Kesbewa - Kindelpitiya - Bandaragama,4520,12070,7550,Bandaragama,01311,Kalutara,0131,Kalutara,013,Western Province,01
+B0217,B,Ketapola - Omatta - Thotupola,0,1649,1649,Thalgaswala,03121,Hiniduma,0312,Galle,031,Southern Province,03
+B0218,B,Kibissa - Digampathana,0,6735,6735,Inamaluwa,02223,Nalanda,0222,Matale,022,Central Province,02
+B0219,B,King George Avenue,0,470,470,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0220,B,Kiribathgoda - Hunupitiya,0,2605,2605,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0221,B,"Kiribathgoda - Oil Refinery, Sapugaskande",0,3710,3710,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0221,B,"Kiribathgoda - Oil Refinery, Sapugaskande",3710,4755,1045,Pattiwila,01214,Gampaha,0121,Gampaha,012,Western Province,01
+B0222,B,Kiriella - Nedurana - Eheliyagoda,0,7018,7018,Epitawala,09111,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0222,B,Kiriella - Nedurana - Eheliyagoda,7018,14510,7492,Parakaduwa,09114,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0223,B,Kirimetitenna - Galgoda,0,5655,5655,Molamure,09123,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0224,B,Kirimetiya - Yala,0,15250,15250,Kalutara,01312,Kalutara,0131,Kalutara,013,Western Province,01
+B0224,B,Kirimetiya - Yala,15250,17030,1780,Madurawala,01331,Horana,0133,Kalutara,013,Western Province,01
+B0225,B,Kirindiwita - Assennawatte,0,12520,12520,Minuwangoda,01213,Gampaha,0121,Gampaha,012,Western Province,01
+B0226,B,Kirindiwita - Ganemulla,0,2965,2965,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0227,B,Kiriyankalli - Andigama,0,13860,13860,Andigama,06222,Puttalam,0622,Chilaw,062,North Western Province,06
+B0228,B,Kochchikade - Halpe,0,9200,9200,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0229,B,Kohuwela - Dehiwela,0,2400,2400,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0230,B,Kokkuvil - Vaddukoddai,0,1220,1220,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0230,B,Kokkuvil - Vaddukoddai,1220,8600,7380,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0231,B,Kolonnawa - Angoda,0,3070,3070,Orugodawatta,01114,Colombo,0111,Colombo,011,Western Province,01
+B0232,B,Kolonnawa - Yakbedde,0,2180,2180,Orugodawatta,01114,Colombo,0111,Colombo,011,Western Province,01
+B0233,B,Kong Tree Road,0,540,540,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0234,B,Korakahawewa - Sri Maha Bodhi,0,4310,4310,Thisa Wewa,07115,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0235,B,Koralawella - Egoda-Uyana,0,6235,6235,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0236,B,Koslande - Poonagala,0,11600,11600,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0237,B,Kotadeniyawa - Mirigama,0,6910,6910,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0237,B,Kotadeniyawa - Mirigama,6910,8140,1230,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0238,B,Kottawa - Batemulla,0,12970,12970,Kottawa,03122,Hiniduma,0312,Galle,031,Southern Province,03
+B0239,B,Kottawa - Talagala,0,11600,11600,Homagama,01122,Avissawella,0112,Colombo,011,Western Province,01
+B0239,B,Kottawa - Talagala,11600,15250,3650,Ingiriya,01332,Horana,0133,Kalutara,013,Western Province,01
+B0240,B,Kotte - Bope,0,2550,2550,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0240,B,Kotte - Bope,2550,13100,10550,Kaduwela,01111,Colombo,0111,Colombo,011,Western Province,01
+B0240,B,Kotte - Bope,13100,28070,14970,Galagedara,01121,Avissawella,0112,Colombo,011,Western Province,01
+B0241,B,Kudapaduwa - Kammalturai,0,3075,3075,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0242,B,Kudugala - Wattegama,0,11680,11680,Malpana,02122,Kundasale,0212,Kandy,021,Central Province,02
+B0243,B,Kuliyapitiya - Hettipola,0,15670,15670,Akarawattha,06131,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0244,B,Kuliyapitiya - Padiwela,0,10880,10880,Akarawattha,06131,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0245,B,Kurana Road,0,850,850,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0246,B,Kurana - Taladuwa,0,1890,1890,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0247,B,Kurunegala - Narammala - Madampe,0,3000,3000,Kurunegala,06114,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0247,B,Kurunegala - Narammala - Madampe,3000,15910,12910,Kiralabokka,06112,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0247,B,Kurunegala - Narammala - Madampe,15910,54800,38890,Nakkawatta,06134,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0247,B,Kurunegala - Narammala - Madampe,54800,64560,9760,Kokkawila,06213,Chilaw,0621,Chilaw,062,North Western Province,06
+B0248,B,Labuduwa - Wandurambe - Sandarawela,0,6275,6275,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0248,B,Labuduwa - Wandurambe - Sandarawela,6275,21590,15315,Baddegama,03111,Galle,0311,Galle,031,Southern Province,03
+B0249,B,Lady Macallums Drive,0,5610,5610,Bambarakale,02311,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0250,B,"Lake Road, No.1, Batticaloa",0,920,920,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0251,B,Lewaya Road,0,3600,3600,Uda malala,03321,Hambantota,0332,Hambantota,033,Southern Province,03
+B0252,B,Lindula to end of Agras Road,0,21720,21720,Summerset,02313,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0253,B,Lowland - Panaliya,0,1730,1730,Bulugolla,06111,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0254,B,Mabima - Sapugaskanda,0,3220,3220,Pattiwila,01214,Gampaha,0121,Gampaha,012,Western Province,01
+B0255,B,Madampe - Chettiyar Street,0,290,290,Kokkawila,06213,Chilaw,0621,Chilaw,062,North Western Province,06
+B0256,B,Madawala - Rajawella,0,8200,8200,Malpana,02122,Kundasale,0212,Kandy,021,Central Province,02
+B0257,B,Madulkelle - Kabaragala - Kandenuwara,0,12310,12310,Panwila,02123,Kundasale,0212,Kandy,021,Central Province,02
+B0257,B,Madulkelle - Kabaragala - Kandenuwara,12310,20550,8240,Matale,02213,Matale,0221,Matale,022,Central Province,02
+B0258,B,Mahakeliya - Katupotha,0,12160,12160,Dunupathanga,06123,Maho,0612,Kurunegala,061,North Western Province,06
+B0259,B,Main Access to Gam Udawa 87,0,6470,6470,Weerawila,03322,Hambantota,0332,Hambantota,033,Southern Province,03
+B0260,B,Main Road to Vettappalai,0,3450,3450,Mulativu,04312,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+B0261,B,"Main Street, Negombo",0,420,420,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+B0262,B,Makola - Udupila,0,8630,8630,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0263,B,Malabe - Kaduwela,0,5555,5555,Kaduwela,01111,Colombo,0111,Colombo,011,Western Province,01
+B0264,B,Mallawapitiya - Rambodagalla - Keppetigala,0,6000,6000,Mawathagama,06115,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0264,B,Mallawapitiya - Rambodagalla - Keppetigala,6000,34340,28340,Rambadagalla,06116,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0265,B,Malwala - Carney,0,14600,14600,Malwala,09113,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0266,B,Malwattha - Chadayantalawa,0,5860,5860,Samanthurai,10222,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0267,B,Mampe - Kottawa,0,6160,6160,Homagama,01122,Avissawella,0112,Colombo,011,Western Province,01
+B0268,B,Manipay - Kaithady,0,800,800,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0268,B,Manipay - Kaithady,800,11240,10440,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0268,B,Manipay - Kaithady,11240,14160,2920,Kaithadi,04121,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0269,B,Mankulam - Vellankulam,0,31870,31870,Mankulam,04311,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+B0269,B,Mankulam - Vellankulam,31870,39855,7985,Vellankulam,04225,Mannar,0422,Vavuniya,042,Northern Province,04
+B0270,B,Mannar Market Street - Sebastian Hospital,0,1860,1860,Mannar town,04222,Mannar,0422,Vavuniya,042,Northern Province,04
+B0271,B,Maradagahamulla - Badalgama,0,7436,7436,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0272,B,Marawila - Udubaddawa,0,10270,10270,Walahapitiya,06214,Chilaw,0621,Chilaw,062,North Western Province,06
+B0272,B,Marawila - Udubaddawa,10270,19560,9290,Paragammana,06135,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0273,B,Maskeliya - Upcot,0,8685,8685,Maskeliya,02323,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0274,B,Matale - Illukkumbura-Pallegama,0,35160,35160,Weragama,02214,Matale,0221,Matale,022,Central Province,02
+B0274,B,Matale - Illukkumbura-Pallegama,35160,43750,8590,Kalugaga,02224,Nalanda,0222,Matale,022,Central Province,02
+B0275,B,Matara - Hakmana,0,22620,22620,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0276,B,Mathagal - Pandatherippu - Sambiliturai,0,6692,6692,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0277,B,Maviddapuram - Keeramalai,0,2800,2800,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0278,B,Mawanella - Aranayake - Horawela,0,13992,13992,Molagoda,09214,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0279,B,Mawanella - Hemmaththagama - Singhapitiya,0,20508,20508,Molagoda,09214,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0279,B,Mawanella - Hemmaththagama - Singhapitiya,20508,25378,4870,Ulapane,02134,Kadugannawa,0213,Kandy,021,Central Province,02
+B0280,B,Mawathagama - Barandara,0,8300,8300,Mawathagama,06115,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0281,B,Mawathagama - Muwankanda,0,8475,8475,Mawathagama,06115,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0282,B,Medawachchiya - Horowopotana,0,14865,14865,Medawacchiya,07124,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0282,B,Medawachchiya - Horowopotana,14865,25810,10945,Kebithigollewa,07123,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0282,B,Medawachchiya - Horowopotana,25810,37600,11790,Horawpathana,07121,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0283,B,Medawachchiya - Kebitigollewa,0,19950,19950,Medawacchiya,07124,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0283,B,Medawachchiya - Kebitigollewa,19950,25390,5440,Kebithigollewa,07123,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0284,B,Meddewatte - Kekanadure - Yatiyana,0,14535,14535,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0285,B,Meepe - Ingiriya,0,7240,7240,Galagedara,01121,Avissawella,0112,Colombo,011,Western Province,01
+B0285,B,Meepe - Ingiriya,7240,18090,10850,Ingiriya,01332,Horana,0133,Kalutara,013,Western Province,01
+B0286,B,Middeniya - Panamure,0,3485,3485,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0286,B,Middeniya - Panamure,3485,12090,8605,Embilipitiya,09132,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0287,B,Minneriya - Hingurakgoda (Airport Road),0,8590,8590,Minneriya,07223,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0288,B,Minuwangoda - Gampaha - Miriswatte,0,9000,9000,Minuwangoda,01213,Gampaha,0121,Gampaha,012,Western Province,01
+B0288,B,Minuwangoda - Gampaha - Miriswatte,9000,13265,4265,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0289,B,Minuwangoda - Miriswatte - Katana,0,3920,3920,Minuwangoda,01213,Gampaha,0121,Gampaha,012,Western Province,01
+B0289,B,Minuwangoda - Miriswatte - Katana,3920,12050,8130,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0290,B,Mirigama - Nalla,0,8200,8200,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0291,B,Mirihana - Udahamulla - Nawinna,0,3500,3500,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0292,B,Miriswatte - Waturugama,0,7485,7485,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0292,B,Miriswatte - Waturugama,7485,10200,2715,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0293,B,Moneragala Town Road,0,445,445,Pelwatta,08212,Monaragala,0821,Monaragala,082,UVA Province,08
+B0294,B,Moragaswewa - Ilukwewa,0,9891,9891,Ambagaswewa,07221,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0295,B,Moratuwa - Piliyandala,0,2700,2700,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0295,B,Moratuwa - Piliyandala,2700,5070,2370,Kesbewa,01124,Avissawella,0112,Colombo,011,Western Province,01
+B0296,B,Puliyankulam-Mullaittivu,0,22455,22455,Kanagarayankulam,04212,Vavuniya,0421,Vavuniya,042,Northern Province,04
+B0296,B,Puliyankulam-Mullaittivu,22455,42680,20225,Oddusuddan,04313,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+B0297,B,Mullaitivu - Kokkilai,0,35500,35500,Mulativu,04312,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+B0298,B,"Munai Street, Batticaloa",0,440,440,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0299,B,Murunkan - Chilawathurai,0,10000,10000,Murunkan,04223,Mannar,0422,Vavuniya,042,Northern Province,04
+B0299,B,Murunkan - Chilawathurai,10000,15750,5750,Murunkan,04223,Mannar,0422,Vavuniya,042,Northern Province,04
+B0300,B,Muttetugala - Hiripitiya,0,5000,5000,Kurunegala,06114,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0300,B,Muttetugala - Hiripitiya,5000,18450,13450,Kiribamuna,06113,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0301,B,Nadukudai Road,0,2200,2200,Mannar town,04222,Mannar,0422,Vavuniya,042,Northern Province,04
+B0302,B,Nagoda - Gallassa Colony Road,0,3420,3420,Kalutara,01312,Kalutara,0131,Kalutara,013,Western Province,01
+B0303,B,Nagoda - Gonadeniya,0,3590,3590,Thalgaswala,03121,Hiniduma,0312,Galle,031,Southern Province,03
+B0304,B,Nagoda - Kalawellawa - Bellapitiya,0,10760,10760,Naboda,01313,Kalutara,0131,Kalutara,013,Western Province,01
+B0304,B,Nagoda - Kalawellawa - Bellapitiya,10760,27080,16320,Bellana,01321,Agalawatta,0132,Kalutara,013,Western Province,01
+B0304,B,Nagoda - Kalawellawa - Bellapitiya,27080,56150,29070,Kalawellawa,01333,Horana,0133,Kalutara,013,Western Province,01
+B0305,B,Nallur - Oddumadam,0,2375,2375,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0306,B,Nanu Oya - Hendeniya,0,2610,2610,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+B0307,B,Narahenpita - Nawala - Nugegoda,0,754,754,CMC,01110,Colombo,0111,Colombo,011,Western Province,01
+B0307,B,Narahenpita - Nawala - Nugegoda,754,3155,2401,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0308,B,Narammala - Dankotuwa,0,38815,38815,Metiyagane,06133,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0308,B,Narammala - Dankotuwa,38815,44550,5735,Haldaduwana,06212,Chilaw,0621,Chilaw,062,North Western Province,06
+B0309,B,Narandeniya - Hakmana,0,11890,11890,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0310,B,Nartupana - Warakagoda,0,3200,3200,Madurawala,01331,Horana,0133,Kalutara,013,Western Province,01
+B0311,B,Nattarampotha - Yakgahapitiya,0,2780,2780,Malpana,02122,Kundasale,0212,Kandy,021,Central Province,02
+B0312,B,Naula - Elahera - Pallegama - Hettipola,0,8330,8330,Nalanda,02225,Nalanda,0222,Matale,022,Central Province,02
+B0312,B,Naula - Elahera - Pallegama - Hettipola,8330,22260,13930,Nalanda,02225,Nalanda,0222,Matale,022,Central Province,02
+B0312,B,Naula - Elahera - Pallegama - Hettipola,22260,36100,13840,Elahera,07222,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0312,B,Naula - Elahera - Pallegama - Hettipola,36100,57100,21000,Kalugaga,02224,Nalanda,0222,Matale,022,Central Province,02
+B0312,B,Naula - Elahera - Pallegama - Hettipola,57100,61470,4370,Hettipola,02222,Nalanda,0222,Matale,022,Central Province,02
+B0314,B,Naval Camp Road,0,800,800,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0315,B,Navanturai - Oddumadam,0,1100,1100,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0316,B,Navinna - Boralesgamuwa,0,1950,1950,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0317,B,Nawalapitiya - Dimbula,0,10729,10729,Ulapane,02134,Kadugannawa,0213,Kandy,021,Central Province,02
+B0317,B,Nawalapitiya - Dimbula,10729,24110,13381,Harangala,02321,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0317,B,Nawalapitiya - Dimbula,24110,29710,5600,Kotagala,02322,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0318,B,Nawalapitiya - Dolosbage,0,18720,18720,Ulapane,02134,Kadugannawa,0213,Kandy,021,Central Province,02
+B0319,B,Nawalapitiya - Ginigathena,0,6910,6910,Ulapane,02134,Kadugannawa,0213,Kandy,021,Central Province,02
+B0319,B,Nawalapitiya - Ginigathena,6910,12030,5120,Norton Bridge,02324,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0320,B,Nayapamulla - Unanwitiya - Nagoda,0,12310,12310,Thalgaswala,03121,Hiniduma,0312,Galle,031,Southern Province,03
+B0321,B,Negombo - Aluthepola,0,7940,7940,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0321,B,Negombo - Aluthepola,7940,13100,5160,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0322,B,Negombo - Giriulla,0,10020,10020,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0322,B,Negombo - Giriulla,10020,34650,24630,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0322,B,Negombo - Giriulla,34650,38300,3650,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0323,B,Negombo - Kadirana,0,3629,3629,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0324,B,Negombo - Mirigama,0,4990,4990,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0324,B,Negombo - Mirigama,4990,20970,15980,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0324,B,Negombo - Mirigama,20970,30460,9490,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0325,B,Nelukkulam - Neriyakulam,0,21615,21615,Ulukkulam,04213,Vavuniya,0421,Vavuniya,042,Northern Province,04
+B0326,B,Nikaweratiya - Moragollagama - Siyambalangamuwa,0,20990,20990,Balalla,06122,Maho,0612,Kurunegala,061,North Western Province,06
+B0326,B,Nikaweratiya - Moragollagama - Siyambalangamuwa,20990,48640,27650,Koonwewa,06124,Maho,0612,Kurunegala,061,North Western Province,06
+B0328,B,Norton - Maskeliya,0,5090,5090,Norton Bridge,02324,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0328,B,Norton - Maskeliya,5090,16350,11260,Maskeliya,02323,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0329,B,Norwood - Bogowantalawa - Campion,0,15920,15920,Norwood,02325,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0330,B,Norwood - Upcot,0,9925,9925,Norwood,02325,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0330,B,Norwood - Upcot,9925,12155,2230,Maskeliya,02323,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0332,B,Nuwara Eliya - Uda Pussellawa,0,12900,12900,Bambarakale,02311,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0332,B,Nuwara Eliya - Uda Pussellawa,12900,41610,28710,Walapane,02333,Hanguranketa,0233,Nuwara Eliya,023,Central Province,02
+B0332,B,Nuwara Eliya - Uda Pussellawa,41610,44950,3340,Mirahawatta,08112,Bandarawela,0811,Badulla,081,UVA Province,08
+B0333,B,Oddamavadi - Vahaneri,0,9490,9490,Walachchenei,05113,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0334,B,Oddusudan - Nedunkerny,0,9280,9280,Oddusuddan,04313,Mullaitivu,0431,Mullaitivu,043,Northern Province,04
+B0334,B,Oddusudan - Nedunkerny,9280,10680,1400,Kanagarayankulam,04212,Vavuniya,0421,Vavuniya,042,Northern Province,04
+B0335,B,"Old Bazaar Road, Maharagama",0,720,720,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0337,B,"Old Road, Kattankudy",0,7350,7350,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0338,B,"Old Tangalle Road, Matara",0,2840,2840,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0339,B,Olugantota - Pinnawala - Bogowantalawa,0,29770,29770,Pagal owita,09124,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0339,B,Olugantota - Pinnawala - Bogowantalawa,29770,33275,3505,Norwood,02325,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0340,B,ORR's Hill Road,0,3430,3430,Trincomalee town,05221,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0341,B,Outer Circular Road (Nochchiyagama),0,6760,6760,Thisa Wewa,07115,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0341,B,Outer Circular Road (Nochchiyagama),6760,8950,2190,Mankadawala,07111,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0342,B,Padaviya - Galkulama,0,14225,14225,Padaviya,07125,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0343,B,Padaviya - Parakrama Pura (Bandaranayake Mawatha),0,8910,8910,Padaviya,07125,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0344,B,Padiruppu - Vellaveli,0,6050,6050,Kalawanchikudi,05111,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0345,B,Pagoda - Pitakotte,0,1550,1550,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0346,B,Palapathwela - Galewela,0,7970,7970,Dombawela,02212,Matale,0221,Matale,022,Central Province,02
+B0346,B,Palapathwela - Galewela,7970,18735,10765,Nalanda,02225,Nalanda,0222,Matale,022,Central Province,02
+B0346,B,Palapathwela - Galewela,18735,30500,11765,Beligamuwa,02221,Nalanda,0222,Matale,022,Central Province,02
+B0347,B,Palathoppu - Seruwila Road,0,7610,7610,Muthur,05216,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0348,B,Palavi - Kalladi,0,7330,7330,Galkulama,06223,Puttalam,0622,Chilaw,062,North Western Province,06
+B0349,B,Palavi - Kalpitiya,0,40480,40480,Palawi,06225,Puttalam,0622,Chilaw,062,North Western Province,06
+B0350,B,Pallang Oya - Inginiyagala,0,12330,12330,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+B0351,B,Pallebedde - Medaganoya - Weligepola,0,12360,12360,Balawinna,09131,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0351,B,Pallebedde - Medaganoya - Weligepola,12360,12500,140,Molamure,09123,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0352,B,Pallimunai Road,0,1380,1380,Mannar town,04222,Mannar,0422,Vavuniya,042,Northern Province,04
+B0353,B,Palugama - Boralande - Haputale,0,14960,14960,Mirahawatta,08112,Bandarawela,0811,Badulla,081,UVA Province,08
+B0353,B,Palugama - Boralande - Haputale,14960,26660,11700,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0354,B,Panagoda - Henpita,0,6530,6530,Galagedara,01121,Avissawella,0112,Colombo,011,Western Province,01
+B0355,B,Panama - Kumbukkana,0,16102,16102,Pottuvil,10212,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0356,B,Pannala - Kuliyapitiya,0,16280,16280,Paragammana,06135,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0357,B,Paranthan - Poonakary,0,20000,20000,Kilinochchi town,04321,Kilinochchi,0432,Mullaitivu,043,Northern Province,04
+B0357,B,Paranthan - Poonakary,20000,25790,5790,Nallur,04322,Kilinochchi,0432,Mullaitivu,043,Northern Province,04
+B0358,B,Parussella - Panapitiya,0,5100,5100,Yatiyanthota,09224,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0359,B,Passara - Hingurukaduwa - Pelwatte,0,4960,4960,Debadda,08121,Badulla,0812,Badulla,081,UVA Province,08
+B0359,B,Passara - Hingurukaduwa - Pelwatte,4960,29150,24190,Pelwatta,08212,Monaragala,0821,Monaragala,082,UVA Province,08
+B0360,B,Passara - Madulsima - Metigahatenna,0,29090,29090,Debadda,08121,Badulla,0812,Badulla,081,UVA Province,08
+B0361,B,Pasyala - Attanagalla,0,6680,6680,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0363,B,Pelawatta - Kankotayawatta - Tinniyawela - Morawaka,0,23950,23950,Horawala,01322,Agalawatta,0132,Kalutara,013,Western Province,01
+B0363,B,Pelawatta - Kankotayawatta - Tinniyawela - Morawaka,23950,36290,12340,Malgalla,03123,Hiniduma,0312,Galle,031,Southern Province,03
+B0363,B,Pelawatta - Kankotayawatta - Tinniyawela - Morawaka,36290,52210,15920,Porupitiya,03223,Deniyaya,0322,Matara,032,Southern Province,03
+B0364,B,Peradeniya - Deltota - Rikiligaskada,0,21800,21800,Gatambe,02112,Kandy,0211,Kandy,021,Central Province,02
+B0364,B,Peradeniya - Deltota - Rikiligaskada,21800,32450,10650,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0364,B,Peradeniya - Deltota - Rikiligaskada,32450,50260,17810,Rikillagaskada,02332,Hanguranketa,0233,Nuwara Eliya,023,Central Province,02
+B0365,B,Peradeniya - Halloluwa - Katugastota,0,2840,2840,Gatambe,02112,Kandy,0211,Kandy,021,Central Province,02
+B0365,B,Peradeniya - Halloluwa - Katugastota,2840,9890,7050,Aladeniya,02111,Kandy,0211,Kandy,021,Central Province,02
+B0366,B,Perkar Road,0,2240,2240,Pudawelkattu,05218,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0367,B,Piliyandala - Maharagama,0,7330,7330,Kesbewa,01124,Avissawella,0112,Colombo,011,Western Province,01
+B0368,B,Pitakotte - Talawatugoda,0,4075,4075,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0369,B,Pitiyagedera - Wattegama - Iriyagastenne,0,5080,5080,Panwila,02123,Kundasale,0212,Kandy,021,Central Province,02
+B0370,B,Point Pedro East Coast Road,0,4700,4700,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0371,B,Point Pedro - Maruthankerny,0,12840,12840,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0371,B,Point Pedro - Maruthankerny,12840,29150,16310,Paranthan,04323,Kilinochchi,0432,Mullaitivu,043,Northern Province,04
+B0372,B,"Police Station Circular Road, Badulla",0,1290,1290,Hali-Ela,08122,Badulla,0812,Badulla,081,UVA Province,08
+B0373,B,Poonewa - Kidavaramkulama,0,3225,3225,Medawacchiya,07124,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0374,B,Potuvil - Panama,0,17560,17560,Pottuvil,10212,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0375,B,Power House Road - Thirugnanasampauthar,0,1660,1660,Trincomalee town,05221,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0376,B,"Prison Road, Tangalle",0,120,120,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0377,B,Pujapitiya - Alawatugoda,0,7670,7670,Palipana,02113,Kandy,0211,Kandy,021,Central Province,02
+B0378,B,Puliyadi - Irakkamam Madu,0,10890,10890,Madhu,04221,Mannar,0422,Vavuniya,042,Northern Province,04
+B0379,B,Puttalam - Marichchikadai,0,3000,3000,Puttalam,06226,Puttalam,0622,Chilaw,062,North Western Province,06
+B0379,B,Puttalam - Marichchikadai,3000,65970,62970,Wanathawilluwa,06227,Puttalam,0622,Chilaw,062,North Western Province,06
+B0380,B,Puttur - Kantharoday,0,11270,11270,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0380,B,Puttur - Kantharoday,11270,12780,1510,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0381,B,Radaella Short Cut Road,0,3220,3220,Summerset,02313,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0382,B,Ragama - Kandana,0,3520,3520,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+B0383,B,Rakwana - Bulutota,0,1180,1180,Rakwana,09134,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0384,B,Rambukkana - Katupitiya,0,9900,9900,Rambukkana,09215,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0385,B,Rambukkana - Mawanella,0,14050,14050,Rambukkana,09215,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0385,B,Rambukkana - Mawanella,14050,16525,2475,Molagoda,09214,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0386,B,Ranatunga Mawatha,0,190,190,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0387,B,Ranna - Udayala - Weeraketiya,0,15440,15440,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0388,B,Ratmalana - Borupona,0,2000,2000,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0389,B,Ratmalana - Mirihana,0,5290,5290,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0389,B,Ratmalana - Mirihana,5290,7800,2510,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0390,B,Ratnapura - Palawela - Karawita,0,20350,20350,Malwala,09113,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0391,B,Ratnapura - Wewelwatte,0,26660,26660,Malwala,09113,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0392,B,Rattota - Gammaduwa,0,11560,11560,Weragama,02214,Matale,0221,Matale,022,Central Province,02
+B0393,B,Ridigama - Liniwehera,0,2010,2010,Rambadagalla,06116,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0396,B,Roehampton - Diyatalawa - Bandarawela,0,9580,9580,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+B0398,B,Sandilipay - Senthankulam,0,7985,7985,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0399,B,Sangilithoppu - Chemmny,0,3321,3321,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0400,B,Seeduwa - Udugampola,0,5010,5010,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0400,B,Seeduwa - Udugampola,5010,12580,7570,Minuwangoda,01213,Gampaha,0121,Gampaha,012,Western Province,01
+B0401,B,Siyambalape - Galwalkada,0,4000,4000,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0402,B,Soranapattu - Thalayadi,0,7260,7260,Paranthan,04323,Kilinochchi,0432,Mullaitivu,043,Northern Province,04
+B0403,B,South Coast Road (Thallady - Arrippu - Marrichchkadai),0,16970,16970,Mannar town,04222,Mannar,0422,Vavuniya,042,Northern Province,04
+B0403,B,South Coast Road (Thallady - Arrippu - Marrichchkadai),16970,48060,31090,Murunkan,04223,Mannar,0422,Vavuniya,042,Northern Province,04
+B0404,B,"Sri Ariyavilasa Road, Horana",0,520,520,Madurawala,01331,Horana,0133,Kalutara,013,Western Province,01
+B0405,B,"Sri Somananda Mawatha, Horana",0,730,730,Madurawala,01331,Horana,0133,Kalutara,013,Western Province,01
+B0406,B,Stony Cliff - Kotagala,0,6550,6550,Kotagala,02322,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0407,B,"St. Joseph's Street, Negombo",0,2260,2260,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0408,B,Talduwa - Meewitigammana,0,5000,5000,Dehiowita,09221,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0408,B,Talduwa - Meewitigammana,5000,13800,8800,Morawatta,09222,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0408,B,Talduwa - Meewitigammana,13800,17200,3400,Pugoda,01233,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0409,B,Talgodapitiya - Yatawatte - Dombawala,0,14975,14975,Rambadagalla,06116,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0409,B,Talgodapitiya - Yatawatte - Dombawala,14975,26260,11285,Dombawela,02212,Matale,0221,Matale,022,Central Province,02
+B0410,B,Tangalle - Weeraketiya,0,13750,13750,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0411,B,Tawalama - Neluwa - Batuwangala,0,9405,9405,Malgalla,03123,Hiniduma,0312,Galle,031,Southern Province,03
+B0412,B,Tawalantenne - Talawakela  ,0,24455,24455,Ramboda,02312,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0412,B,Tawalantenne - Talawakela  ,24455,32200,7745,Summerset,02313,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0413,B,Tennekumbura - Rikiligaskada - Ragala,0,22140,22140,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0413,B,Tennekumbura - Rikiligaskada - Ragala,22140,39190,17050,Rikillagaskada,02332,Hanguranketa,0233,Nuwara Eliya,023,Central Province,02
+B0413,B,Tennekumbura - Rikiligaskada - Ragala,39190,54885,15695,Keerthibandarapura,02331,Hanguranketa,0233,Nuwara Eliya,023,Central Province,02
+B0413,B,Tennekumbura - Rikiligaskada - Ragala,54885,70760,15875,Walapane,02333,Hanguranketa,0233,Nuwara Eliya,023,Central Province,02
+B0414,B,Thavadi - Suthumalai,0,1210,1210,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0414,B,Thavadi - Suthumalai,1210,2770,1560,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0415,B,Thihagoda - Kamburupitiya - Mawarala - Kotapola,0,11330,11330,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0415,B,Thihagoda - Kamburupitiya - Mawarala - Kotapola,11330,53980,42650,Beragama,03221,Deniyaya,0322,Matara,032,Southern Province,03
+B0415,B,Thihagoda - Kamburupitiya - Mawarala - Kotapola,53980,65130,11150,Porupitiya,03223,Deniyaya,0322,Matara,032,Southern Province,03
+B0416,B,Thihariya - Warapalana,0,5370,5370,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0417,B,Thoandamanaru - Vallai - Tunnalai,0,12900,12900,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0418,B,Thondamanaru - Udupiddy,0,2690,2690,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0419,B,Thoppu - Madampe,0,11990,11990,haldaduwana,06212,Chilaw,0621,Chilaw,062,North Western Province,06
+B0419,B,Thoppu - Madampe,11990,26620,14630,Walahapitiya,06214,Chilaw,0621,Chilaw,062,North Western Province,06
+B0420,B,Thumpalai - Valalai,0,2820,2820,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0420,B,Thumpalai - Valalai,2820,4830,2010,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0421,B,Tiruwanaketiya - Agalawatte,0,12980,12980,Malwala,09113,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0421,B,Tiruwanaketiya - Agalawatte,12980,46050,33070,Kalawana,09112,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0421,B,Tiruwanaketiya - Agalawatte,46050,66950,20900,Bellana,01321,Agalawatta,0132,Kalutara,013,Western Province,01
+B0422,B,Tissa - Kirinde,0,13045,13045,Weerawila,03322,Hambantota,0332,Hambantota,033,Southern Province,03
+B0423,B,Tonigala - Kalawewa - Galewela,0,5090,5090,Maradankadawala,07132,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0423,B,Tonigala - Kalawewa - Galewela,5090,32680,27590,Vijithapura,07133,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0423,B,Tonigala - Kalawewa - Galewela,32680,45030,12350,Beligamuwa,02221,Nalanda,0222,Matale,022,Central Province,02
+B0424,B,Trincomalee - Pulmoddai,0,7370,7370,Trincomalee town,05221,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0424,B,Trincomalee - Pulmoddai,7370,40010,32640,Pudawelkattu,05218,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0424,B,Trincomalee - Pulmoddai,40010,55750,15740,Pulmuddai,05219,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0425,B,Tudella - Pamunugama - Talahena - Negombo,0,7930,7930,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+B0425,B,Tudella - Pamunugama - Talahena - Negombo,7930,20450,12520,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0426,B,Tummodera - Puwakpitiya,0,9300,9300,Kaluaggala,01123,Avissawella,0112,Colombo,011,Western Province,01
+B0427,B,Udawalawe - Tanamalwila,0,4920,4920,Balawinna,09131,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0427,B,Udawalawe - Tanamalwila,4920,35510,30590,Bodagama,08211,Monaragala,0821,Monaragala,082,UVA Province,08
+B0428,B,Udawela - Kumbukgahamulla,0,1780,1780,Paragammana,06135,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0429,B,Udugama - Hiniduma,0,10800,10800,Malgalla,03123,Hiniduma,0312,Galle,031,Southern Province,03
+B0430,B,Udugampola - Divulapitiya,0,13030,13030,Minuwangoda,01213,Gampaha,0121,Gampaha,012,Western Province,01
+B0430,,Udugampola - Divulapitiya,13030,15080,2050,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0431,B,Ulapane - Pussellawa,0,6740,6740,Gampola,02131,Kadugannawa,0213,Kandy,021,Central Province,02
+B0431,B,Ulapane - Pussellawa,6740,20870,14130,Ramboda,02312,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0432,B,Uraliyagara - Panirendawa - Villattewa,0,13835,13835,Kokkawila,06213,Chilaw,0621,Chilaw,062,North Western Province,06
+B0433,B,Urani Road,0,2530,2530,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0434,B,Urapola - Waturugama,0,7140,7140,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0435,B,Urugodawatte - Ambatale,0,7700,7700,Orugodawatta,01114,Colombo,0111,Colombo,011,Western Province,01
+B0436,B,Vaddukoddai - Moolai,0,2720,2720,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0437,B,Vallai - Telippalai - Araly,0,4450,4450,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+B0437,B,Vallai - Telippalai - Araly,4450,27440,22990,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+B0438,B,Vallai-udupiddy - Velvettiturai,0,5515,5515,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+B0439,B,Varapathanchenai - Deegawapi,0,5280,5280,Samanthurai,10222,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0440,B,Veeragoda Central Camp Road,0,16260,16260,Chavalakadi,10221,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0441,B,Velani - Kayts,0,7035,7035,Velanai,04113,Jaffna,0411,Jaffna,041,Northern Province,04
+B0442,B,Velikulam - Mamaduwa,0,8050,8050,Vavuniya town,04214,Vavuniya,0421,Vavuniya,042,Northern Province,04
+B0443,B,Veyangoda - Banduragoda,0,1970,1970,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0443,B,Veyangoda - Banduragoda,1970,8630,6660,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0444,B,Veyangoda - Kaleliya,0,2005,2005,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0444,B,Veyangoda - Kaleliya,2005,7480,5475,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0445,B,Veyangoda - Ruwanwella,0,17680,17680,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0445,B,Veyangoda - Ruwanwella,17680,32000,14320,Morawatta,09222,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0446,B,Vijitha Road,0,85,85,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0447,B,Vilgam Vihara Road,0,3950,3950,Kanniya,05213,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0448,B,Villu Road,0,880,880,Puttalam,06226,Puttalam,0622,Chilaw,062,North Western Province,06
+B0449,B,Wadduwa - Morontuduwa,0,5270,5270,Bandaragama,01311,Kalutara,0131,Kalutara,013,Western Province,01
+B0450,B,Walasmulla - Weeraketiya,0,7770,7770,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0451,B,Walgama - Aturugiriya,0,1210,1210,Homagama,01122,Avissawella,0112,Colombo,011,Western Province,01
+B0452,B,Walgama - Diyagama,0,7080,7080,Homagama,01122,Avissawella,0112,Colombo,011,Western Province,01
+B0453,B,Walpola - Mailawalana,0,9335,9335,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0454,B,Wandurambe - Ethumale - Yakkatuwa,0,36170,36170,Thalgaswala,03121,Hiniduma,0312,Galle,031,Southern Province,03
+B0455,B,Wandurambe - Kottawa,0,9750,9750,Kottawa,03122,Hiniduma,0312,Galle,031,Southern Province,03
+B0456,B,Warakapola - Kandalama ,0,2500,2500,Warakapola,09216,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0456,B,Warakapola - Kandalama ,2500,10070,7570,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0457,B,Warakapola - Ruwanwella,0,12020,12020,Warakapola,09216,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0457,B,Warakapola - Ruwanwella,12020,22080,10060,Morawatta,09222,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0458,B,Waskaduwa - Bandaragama,0,12160,12160,Bandaragama,01311,Kalutara,0131,Kalutara,013,Western Province,01
+B0459,B,Wattala - Hekitta,0,1500,1500,Wattala,01224,Negambo,0122,Gampaha,012,Western Province,01
+B0460,B,Wattala - Mahara,0,1410,1410,Wattala,01224,Negambo,0122,Gampaha,012,Western Province,01
+B0460,B,Wattala - Mahara,1410,7165,5755,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0461,B,Wattegama - Kandenuwara - Wariyapola,0,4550,4550,Panwila,02123,Kundasale,0212,Kandy,021,Central Province,02
+B0461,B,Wattegama - Kandenuwara - Wariyapola,4550,14680,10130,Alupothuwila,02211,Matale,0221,Matale,022,Central Province,02
+B0461,B,Wattegama - Kandenuwara - Wariyapola,14680,30340,15660,Matale,02213,Matale,0221,Matale,022,Central Province,02
+B0462,B,Wattegama - Matale,0,4900,4900,Panwila,02123,Kundasale,0212,Kandy,021,Central Province,02
+B0462,B,Wattegama - Matale,4900,12900,8000,Alupothuwila,02211,Matale,0221,Matale,022,Central Province,02
+B0463,B,Weeraketiya - Middeniya,0,12425,12425,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0464,B,Weerawila - Tissa - Kataragama,0,23630,23630,Weerawila,03322,Hambantota,0332,Hambantota,033,Southern Province,03
+B0465,B,Weligama - Kananke,0,9780,9780,Weligama,03212,Matara,0321,Matara,032,Southern Province,03
+B0466,B,Weligama - Telijjawila,0,11020,11020,Weligama,03212,Matara,0321,Matara,032,Southern Province,03
+B0467,B,Weligepola - Handagiriya,0,11030,11030,Balawinna,09131,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0468,B,Welihena - Katana,0,5020,5020,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0469,B,Welikada - Kohilawatta,0,2960,2960,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0469,B,Welikada - Kohilawatta,2960,5950,2990,Orugodawatta,01114,Colombo,0111,Colombo,011,Western Province,01
+B0470,B,Welikada - Nawala,0,2790,2790,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0471,B,Welimada - Kirklees,0,17485,17485,Mirahawatta,08112,Bandarawela,0811,Badulla,081,UVA Province,08
+B0472,B,Weliweriya - Kirindiwela,0,5860,5860,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0472,B,Weliweriya - Kirindiwela,5860,12880,7020,Pugoda,01233,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0473,B,Wennappuwa - Kirimetiyana,0,5245,5245,Haldaduwana,06212,Chilaw,0621,Chilaw,062,North Western Province,06
+B0474,B,Weragantota - Randenigala,0,25720,25720,Gurulupotha,02121,Kundasale,0212,Kandy,021,Central Province,02
+B0475,B,Bulugolla - Dombemada - Wahawa,0,4080,4080,Bulugolla,06111,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0475,B,Bulugolla - Dombemada - Wahawa,4080,13590,9510,Rambukkana,09215,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0476,B,Weweldeniya - Mirigama,0,6290,6290,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0477,B,Wewelwatte - Agarsland - Uwella,0,9460,9460,Horaketiya,09121,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0478,B,Wilakatupotha - Ganewattha - Kumbukgete,0,5225,5225,Dunupathanga,06123,Maho,0612,Kurunegala,061,North Western Province,06
+B0478,B,Wilakatupotha - Ganewattha - Kumbukgete,5225,21830,16605,Kiribamuna,06113,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0479,B,Yakkala - Radawana,0,1940,1940,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0479,B,Yakkala - Radawana,1940,12700,10760,Nittambuwa,01232,Nittambuwa,0123,Gampaha,012,Western Province,01
+B0480,B,Yakkalamulla - Ketanwila,0,9940,9940,Kottawa,03122,Hiniduma,0312,Galle,031,Southern Province,03
+B0480,B,Yakkalamulla - Ketanwila,9940,12180,2240,Indikatudeniya,03222,Deniyaya,0322,Matara,032,Southern Province,03
+B0481,B,Yatadolawatta Road,0,2755,2755,Bellana,01321,Agalawatta,0132,Kalutara,013,Western Province,01
+B0482,B,Yatiyantota - Poonagala - Meenagala,0,23540,23540,Yatiyanthota,09224,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0483,B,Sammanthurai - Malkampiddi - Deegawapiya,0,14470,14470,Samanthurai,10222,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0484,B,Handungamuwa - Hettipola - Hasalaka,0,19410,19410,Gurulupotha,02121,Kundasale,0212,Kandy,021,Central Province,02
+B0484,B,Handungamuwa - Hettipola - Hasalaka,19410,43460,24050,Hettipola,02222,Nalanda,0222,Matale,022,Central Province,02
+B0485,B,Walasmulla - Katuwana - Middeniya,0,25820,25820,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0486,B,Embilipitiya - Middeniya,0,12160,12160,Embilipitiya,09132,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0486,B,Embilipitiya - Middeniya,12160,14340,2180,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0487,B,"Atugala Road, Kurunegala",0,1600,1600,Kurunegala,06114,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0488,B,Polonnaruwa -  Tambala - Sungawila - Somawathiya,0,41525,41525,Kaduruwela,07211,Polonnaruwa,0721,Polonnaruwa,072,North Central Province,07
+B0489,B,Roads within President's pavilion Kandy,0,430,430,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0490,B,Atabage - Ulapane Road ,0,7400,7400,Gampola,02131,Kadugannawa,0213,Kandy,021,Central Province,02
+B0491,B,Kotmale Dam Crest- Harangala Road,0,3820,3820,Harangala,02321,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0492,B,Kandehandiya - Adikarigama - Randenigala - Loggal Oya,0,3500,3500,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0492,B,Kandehandiya - Adikarigama - Randenigala - Loggal Oya,3500,45170,41670,Keerthibandarapura,02331,Hanguranketa,0233,Nuwara Eliya,023,Central Province,02
+B0492,B,Kandehandiya - Adikarigama - Randenigala - Loggal Oya,45170,54710,9540,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+B0493,B,Moragahamula - Victoriya Damtop,0,7885,7885,Udadumbara,02124,Kundasale,0212,Kandy,021,Central Province,02
+B0494,B,Victoriya Damtop - Adikarigama,0,2300,2300,Keerthibandarapura,02331,Hanguranketa,0233,Nuwara Eliya,023,Central Province,02
+B0495,B,Edandawela - Kahahengama,0,1880,1880,Parakaduwa,09114,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0496,B,Thanamalwila - Hambegamuwa(Thanamalwila - Bodagama),0,5060,5060,Bodagama,08211,Monaragala,0821,Monaragala,082,UVA Province,08
+B0497,B,51st Mile post - Ulhitiyawa,0,8630,8630,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+B0498,B,Barrier Junction - Girandura Kotte,0,7170,7170,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+B0499,B,Kirinda - Palatupana - Yala,0,12520,12520,Weerawila,03322,Hambantota,0332,Hambantota,033,Southern Province,03
+B0500,B,Tissa - Akurugoda,0,1060,1060,Weerawila,03322,Hambantota,0332,Hambantota,033,Southern Province,03
+B0501,B,Andarawewa - Balaluwewa( Jeya Mawatha ),0,9990,9990,Sinharagama,07113,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0501,B,Andarawewa - Balaluwewa( Jeya Mawatha ),9990,28405,18415,Thalawa,07114,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0501,B,Andarawewa - Balaluwewa( Jeya Mawatha ),28405,50865,22460,Vijithapura,07133,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0502,B,Manampitiya - Aralaganwila - Maduru oya,0,32870,32870,Manampitiya,07212,Polonnaruwa,0721,Polonnaruwa,072,North Central Province,07
+B0503,B,Makandura - Badalgama,0,2330,2330,Metiyagane,06133,Kuliyapitiya,0613,Kurunegala,061,North Western Province,06
+B0503,B,Makandura - Badalgama,2330,4600,2270,Madampalla,01222,Negambo,0122,Gampaha,012,Western Province,01
+B0504,B,Maharagama - Pamunuwa - Thalapathpitiya,0,2330,2330,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0505,B,Phala Eriyagama - Penideniya,0,860,860,Kadugannawa,02132,Kadugannawa,0213,Kandy,021,Central Province,02
+B0506,B,Nawalapitiya - Harangala,0,8830,8830,Harangala,02321,Norwood,0232,Nuwara Eliya,023,Central Province,02
+B0507,B,Rendapola - Ambewela,0,8010,8010,Mirahawatta,08112,Bandarawela,0811,Badulla,081,UVA Province,08
+B0508,B,Welimade - Borelanda - Ohiya - Horton Plains ,0,31420,31420,Mirahawatta,08112,Bandarawela,0811,Badulla,081,UVA Province,08
+B0509,B,Kuttampokuna - Galpalama,0,2950,2950,Mankadawala,07111,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0510,B,Kesbewa - Kosgashandiya,0,1400,1400,Kesbewa,01124,Avissawella,0112,Colombo,011,Western Province,01
+B0511,B,Keerthibandrapura - Naranthalawa,0,4040,4040,Keerthibandarapura,02331,Hanguranketa,0233,Nuwara Eliya,023,Central Province,02
+B0512,B,Blackpool Ambewela Pattipola Horton Plains,0,26950,26950,Bambarakale,02311,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0513,B,Kumbukkana Okkampitiya maligawila,0,14900,14900,Pelwatta,08212,Monaragala,0821,Monaragala,082,UVA Province,08
+B0515,B,Road Parallel to halpanu Ela,0,1100,1100,Mankadawala,07111,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0516,B,Etalai - Talawila (Jubily Mawatha),0,4200,4200,Palawi,06225,Puttalam,0622,Chilaw,062,North Western Province,06
+B0517,B,Dehiattakandiya - Aralaganwila,0,8100,8100,Dehiatthakandiya,10121,Dehiatthakandiya,1012,Ampara,101,Add.P Akkaraipattu,10
+B0517,B,Dehiattakandiya - Aralaganwila,8100,20780,12680,Siripura,07213,Polonnaruwa,0721,Polonnaruwa,072,North Central Province,07
+B0518,B,Sangaraja Mawatha - Kandy,0,1746,1746,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0519,B,Yatinuwara Veediya - Kandy,0,680,680,Gatambe,02112,Kandy,0211,Kandy,021,Central Province,02
+B0520,B,Kande Veediya - Kandy,0,128,128,Gatambe,02112,Kandy,0211,Kandy,021,Central Province,02
+B0521,B,Mosque Road - Kandy,0,400,400,Gatambe,02112,Kandy,0211,Kandy,021,Central Province,02
+B0522,B,Buttala - Helagama - Okkampitiya,0,8890,8890,Pelwatta,08212,Monaragala,0821,Monaragala,082,UVA Province,08
+B0523,B,Elpitiya By Pass,0,580,580,Thalgaswala,03121,Hiniduma,0312,Galle,031,Southern Province,03
+B0524,B,Beach Road Matara( Matara By Pass),0,2400,2400,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0525,B,Dikwella - Wewurukannala,0,1870,1870,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0526,B,Baddegama - Halpatota,0,1460,1460,Baddegama,03111,Galle,0311,Galle,031,Southern Province,03
+B0527,B,Bibile - Pitakumbura - Namal Oya - Inginiyagala,0,49740,49740,Bibile,08221,Bibile,0822,Monaragala,082,UVA Province,08
+B0527,B,Bibile - Pitakumbura - Namal Oya - Inginiyagala,49740,59970,10230,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+B0528,B,Bodagma - Hambegamuwa - Kaltota,0,40100,40100,Bodagama,08211,Monaragala,0821,Monaragala,082,UVA Province,08
+B0528,B,Bodagma - Hambegamuwa - Kaltota,40100,45130,5030,Molamure,09123,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0529,B,Polonnaruwa - New Town Road,0,3370,3370,Kaduruwela,07211,Polonnaruwa,0721,Polonnaruwa,072,North Central Province,07
+B0530,B,Udahamulla - Thalapathpitiya,0,2050,2050,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0531,B,Parliament Drive,0,718,718,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0532,B,Approach Road to Sri Jayawardenepura Parliament,0,430,430,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0533,B,Pelawatta Access Road,0,864,864,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0534,B,Nawala - Pagoda Link Road,0,260,260,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0535,B,Nilwala By pass ,0,1830,1830,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0536,B,Kamburupitiya - Kirinda,0,8950,8950,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0537,B,Barigama - Halloluwa,0,5690,5690,Aladeniya,02111,Kandy,0211,Kandy,021,Central Province,02
+B0538,B,Kahatagasdigiliya - Rathmalgahaweewa - Kivulekade,0,7980,7980,Kahatagasdigiliya,07122,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0538,B,Kahatagasdigiliya - Rathmalgahaweewa - Kivulekade,7980,24270,16290,Kebithigollewa,07123,Medawachchiya,0712,Anuradhapura,071,North Central Province,07
+B0539,B,Nelundeniya - Alawwa,0,7795,7795,Abanpitiya,09211,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0540,B,Nelundeniya - Tuntota - Galapitamada,0,7075,7075,Abanpitiya,09211,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0540,B,Nelundeniya - Tuntota - Galapitamada,7075,13320,6245,Warakapola,09216,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0541,B,Thampalakamam - Kinniya,0,7970,7970,Thamealaegamam,05220,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0541,B,Thampalakamam - Kinniya,7970,14920,6950,Chinabay,05212,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0542,B,Lady Manning Drive,0,1140,1140,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0543,B,Liyods Avenu,0,430,430,Pilleyardi,05112,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+B0544,B,Moragolla - Bellana,0,9860,9860,Bellana,01321,Agalawatta,0132,Kalutara,013,Western Province,01
+B0545,B,"Approach Road to National Food Stores, Rathmalana(Kaldemulla Rd)",0,1370,1370,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0546,B,New Nuga Road,0,1140,1140,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0547,B,Kawdana Attidiya,0,2500,2500,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0548,B,Ranna Angunakolapelessa Vatiya,0,16135,16135,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0549,B,Embilipitiya - Moraketiya - Kiriibbanara - Uda Mauara,0,5700,5700,Embilipitiya,09132,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0549,B,Embilipitiya - Moraketiya - Kiriibbanara - Uda Mauara,5700,16860,11160,Bodagama,08211,Monaragala,0821,Monaragala,082,UVA Province,08
+B0550,B,Dharmashoka Mawatha,0,2580,2580,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0551,B,Luvi Peris Mawatha,0,820,820,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0552,B,Polonnaruwa - Hingurakgoda ,0,6170,6170,Kaduruwela,07211,Polonnaruwa,0721,Polonnaruwa,072,North Central Province,07
+B0552,B,Polonnaruwa - Hingurakgoda ,6170,12800,6630,Minneriya,07223,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0553,B,Old Kesbewa Road,0,170,170,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0553,B,Old Kesbewa Road,170,820,650,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+B0554,B,Ragama Karagahamuna  (Ragama to Thewattha section),0,2470,2470,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+B0555,B,Access road to Getabaru Temple,0,1600,1600,Porupitiya,03223,Deniyaya,0322,Matara,032,Southern Province,03
+B0556,B,Madatugama Pubbogama Andiyagala,0,8000,8000,Maradankadawala,07132,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0556,B,Madatugama Pubbogama Andiyagala,8000,13260,5260,Vijithapura,07133,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0557,B,Circular Road - Devinuwara,0,560,560,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0558,B,Kosgoda Uragaha Road,0,5940,5940,Karandeniya,03112,Galle,0311,Galle,031,Southern Province,03
+B0559,B,Sinhasana Road,0,820,820,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0560,B,"Council Avenue , Dehiwala",0,130,130,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+B0561,B,Dambulla Kandalama,0,860,860,Inamaluwa,02223,Nalanda,0222,Matale,022,Central Province,02
+B0562,B,Mirijjawila Sooriyawewa,0,23320,23320,Uda malala,03321,Hambantota,0332,Hambantota,033,Southern Province,03
+B0563,B,Sooriyawewa Padalangala,0,8380,8380,Uda malala,03321,Hambantota,0332,Hambantota,033,Southern Province,03
+B0563,B,Sooriyawewa Padalangala,8380,12000,3620,Embilipitiya,09132,Embilipitiya,0913,Ratnapura,091,Sabaragamuwa Province,09
+B0564,B,Otappuwa Ihalawewa,0,13780,13780,Sinharagama,07113,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0565,B,Walasmulla By Pass,0,360,360,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0566,B,Nakulugamuwa Kudawella Moraketiara ,0,3820,3820,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0567,B,Weligaththa Lunugamwehera,0,23530,23530,Weerawila,03322,Hambantota,0332,Hambantota,033,Southern Province,03
+B0568,B,Hurigaswewa Kalankuttioya Siyambalangamuwa ,0,2185,2185,Vijithapura,07133,Maradankadawala,0713,Anuradhapura,071,North Central Province,07
+B0569,B,Access to Gampaha Railway Station (Queen Mary's Road),0,800,800,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0570,B,Mudungoda Gampaha (Orutota Road),0,5410,5410,Gampaha,01211,Gampaha,0121,Gampaha,012,Western Province,01
+B0571,B,Approach Road to College of Education - Addalaichenai,0,1130,1130,Akkaraipattu,10211,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0572,B,Addalachenai Alankulam,0,9730,9730,Akkaraipattu,10211,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0573,B,Akkaraipattu   Deegavapi Ambalatharu,0,22930,22930,Akkaraipattu,10211,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0574,B,"Flood ProtectionRoad, Akkaraipattu",0,2180,2180,Akkaraipattu,10211,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0575,B,Kulavadi Central Camp ,0,5210,5210,Chavalakadi,10221,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0576,B,By Pass Road to Pallikkudiyiruppu village on Akkaraipattu Varapathanchenai Road,0,1330,1330,Akkaraipattu,10211,Akkaraipattu,1021,Akkaraipattu,102,Add.P Akkaraipattu,10
+B0577,B,Belaganwewa Hembarawa Wilgamuwa ,0,6320,6320,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+B0577,B,Belaganwewa Hembarawa Wilgamuwa ,6320,12210,5890,Hettipola,02222,Nalanda,0222,Matale,022,Central Province,02
+B0578,B,Dorape Hiyare,0,8240,8240,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0579,B,Polonnaruwa - New Town - Kaduruwela (Nidahas Swarna Jayanthoi Mawatha),0,4600,4600,Kaduruwela,07211,Polonnaruwa,0721,Polonnaruwa,072,North Central Province,07
+B0580,B,Nikatupitiya Junction to Mapakadawewa Junction,0,8170,8170,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+B0581,B,Welimada By Pass,0,80,80,Mirahawatta,08112,Bandarawela,0811,Badulla,081,UVA Province,08
+B0582,B,Gomburuoya - Balapokuna ,0,7940,7940,Ramboda,02312,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0583,B,Mawanella By Pass,0,1800,1800,Molagoda,09214,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0584,B,Lathpandura Molkawa,0,11700,11700,Bellana,01321,Agalawatta,0132,Kalutara,013,Western Province,01
+B0585,B,Kaluwamodara Kandevihara ,0,1060,1060,Kalutara,01312,Kalutara,0131,Kalutara,013,Western Province,01
+B0586,B,Park Road Matale,0,320,320,Matale,02213,Matale,0221,Matale,022,Central Province,02
+B0587,B,Sooriyawewa Hathporuwa Moraketiya ,0,7165,7165,Uda malala,03321,Hambantota,0332,Hambantota,033,Southern Province,03
+B0587,B,Sooriyawewa Hathporuwa Moraketiya ,7165,14113,6948,Bodagama,08211,Monaragala,0821,Monaragala,082,UVA Province,08
+B0588,B,Dedugala Dolosbage,0,10060,10060,Weekada,09223,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0588,B,Dedugala Dolosbage,10060,12360,2300,Ulapane,02134,Kadugannawa,0213,Kandy,021,Central Province,02
+B0589,B,Hidellana Karapincha (Approach Road to Tea Research Institute -Law Country Region),0,4080,4080,Parakaduwa,09114,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+B0590,B,Udayagiri Rajamahavihara Road,0,1160,1160,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+B0591,B,Uyanwatta Polgolla Dam ,0,610,610,Malpana,02122,Kundasale,0212,Kandy,021,Central Province,02
+B0593,B,Pambahinna Kumbalgama Rajawaka Kapugala,0,7990,7990,Pagal owita,09124,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0593,B,Pambahinna Kumbalgama Rajawaka Kapugala,7990,28420,20430,Molamure,09123,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+B0594,B,Galle Port Access,0,5200,5200,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+B0595,B,Hunnadeniya Rathmale Radampola Walasgala,0,12550,12550,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0596,B,Uswetakeiyawa Epamulla Pamunugama,0,8015,8015,Wattala,01224,Negambo,0122,Gampaha,012,Western Province,01
+B0597,B, Kandawala Katunayake,0,4610,4610,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0598,B,Seeduwa Katunayake,0,4000,4000,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+B0599,B,Mabopitiya Degalaeriya,0,3540,3540,Hettimulla,09213,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0600,B,Meepitiya Ekiriyagala Paragammana,0,5080,5080,Dewalegama,09212,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0601,B,Kegalle Siyambalapitiya Dewalegama,0,4390,4390,Dewalegama,09212,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0602,B,Morontota Arandara,0,8190,8190,Abanpitiya,09211,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0603,B,Magmmana Kurupettha Daigala Gurugalla,0,11910,11910,Morawatta,09222,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0604,B,Paragammana Dikella Atugoda Wanduradeniya,0,6975,6975,Hettimulla,09213,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0604,B,Paragammana Dikella Atugoda Wanduradeniya,6975,14450,7475,Abanpitiya,09211,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0605,B,Alawathura Yatapana Kotiyakumbura,0,6300,6300,Weekada,09223,Ruwanwella,0922,Kegalle,092,Sabaragamuwa Province,09
+B0606,B,Katuwana - Rukmalpitiya - Hulankanda - Heegoda,0,4660,4660,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0606,B,Katuwana - Rukmalpitiya - Hulankanda - Heegoda,4660,8905,4245,Beragama,03221,Deniyaya,0322,Matara,032,Southern Province,03
+B0607,B,Bengamuwa - Molokgamuwa - Galdola,0,5010,5010,Beragama,03221,Deniyaya,0322,Matara,032,Southern Province,03
+B0607,B,Bengamuwa - Molokgamuwa - Galdola,5010,9360,4350,Porupitiya,03223,Deniyaya,0322,Matara,032,Southern Province,03
+B0608,B,Weera Maddumabandara Mawatha,0,150,150,Tennekumbura,02114,Kandy,0211,Kandy,021,Central Province,02
+B0609,B,Hiripitiya - Galtemwewa,0,3200,3200,Kiribamuna,06113,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0609,B,Hiripitiya - Galtemwewa,3200,14830,11630,Koonwewa,06124,Maho,0612,Kurunegala,061,North Western Province,06
+B0610,B,Melsiripura - Rambe,0,6150,6150,Kiribamuna,06113,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0610,B,Melsiripura - Rambe,6150,12670,6520,Koonwewa,06124,Maho,0612,Kurunegala,061,North Western Province,06
+B0611,B,Thitthawella - Gonagama,0,15200,15200,Kurunegala,06114,Kurunegala,0611,Kurunegala,061,North Western Province,06
+B0612,B,Ramboda - Pusulpitiya,0,2380,2380,Ramboda,02312,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0613,B,Kothmale New Town Road,0,1030,1030,Ramboda,02312,Nuwara Eliya,0231,Nuwara Eliya,023,Central Province,02
+B0614,B,Battuluoya - Udappuwa - Andimunai ,0,9235,9235,Chilaw,06211,Chilaw,0621,Chilaw,062,North Western Province,06
+B0615,B,Dambulla - Bakamuna - Kalagahawela,0,18115,18115,Inamaluwa,02223,Nalanda,0222,Matale,022,Central Province,02
+B0615,B,Dambulla - Bakamuna - Kalagahawela,18115,32215,14100,Elahera,07222,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0616,B,Nochchiyagama - Kukulkatuwa,0,19500,19500,Sinharagama,07113,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0617,B,Minneriya - Gal Oya,0,14530,14530,Ambagaswewa,07221,Habarana,0722,Polonnaruwa,072,North Central Province,07
+B0618,B,Mollipothana - Soorangal,0,7454,7454,Kanthale,05214,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0618,B,Mollipothana - Soorangal,7454,13985,6531,Thamealaegamam,05220,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0619,B,Sardhapura - Kanniya,0,5165,5165,Kanniya,05213,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0620,B,Kanniya - Illuppaikulam,0,4050,4050,Kanniya,05213,Trincomalee,0521,Trincomalee,052,Eastern Province,05
+B0621,B,Atabage - Dunukeulla ,0,7360,7360,Meewathura,02133,Kadugannawa,0213,Kandy,021,Central Province,02
+B0622,B,Hungama - Thalawa - Middeniya,0,25300,25300,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0623,B,Medamulana - Gonadeniya - Debokkawa,0,11666,11666,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0624,B,Thalawa - Dambarella - Hingura,0,6575,6575,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0625,B,Ambakolawewa - Morayaya - Gonadeniya,0,4210,4210,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0626,B,Polonmaruwa - Beliatta ,0,6550,6550,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0627,B,Dammulla - Weeraketiya,0,10060,10060,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0628,B,Tangalle - Kadurupokuna - Beliatta,0,8720,8720,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0629,B,Walasmulla - Julampitiya ,0,13120,13120,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0630,B,Beliatta - Kirinda,0,8915,8915,Tangalle,03311,Tangalle,0331,Hambantota,033,Southern Province,03
+B0630,B,Beliatta - Kirinda,8915,13850,4935,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0631,B,Hambantota - Gonnoruwa - Meegahajandura,0,29445,29445,Uda malala,03321,Hambantota,0332,Hambantota,033,Southern Province,03
+B0632,B,Sapugaskanda Oil Refinery Junction - Biyagama Free Trade Zone (Samurdhi Mawatha),0,6780,6780,Pattiwila,01214,Gampaha,0121,Gampaha,012,Western Province,01
+B0633,B,Access Road to Ja-Ela Interchange,0,2505,2505,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+B0634,B,Access Road to Peliyagoda Interchange,0,1910,1910,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0635,B,Access Road to Matara,0,1285,1285,Welewatta,03211,Matara,0321,Matara,032,Southern Province,03
+B0636,B,Akuressa By pass,0,1750,1750,Indikatudeniya,03222,Deniyaya,0322,Matara,032,Southern Province,03
+B0637,B,Pelena-Polwatta-Denipitiya,0,2100,2100,Weligama,03212,Matara,0321,Matara,032,Southern Province,03
+B0638,B,Sri Maha Bodhi Access ,0,3000,3000,Thisa Wewa,07115,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+B0639,B,Piliyandala By Pass,0,2850,2850,Kesbewa,01124,Avissawella,0112,Colombo,011,Western Province,01
+B0640,B,Nainamadama-Iranawila-Chilaw,0,12360,12360,Haldaduwana,06212,Chilaw,0621,Chilaw,062,North Western Province,06
+B0640,B,Nainamadama-Iranawila-Chilaw,12360,21920,9560,Walahapitiya,06214,Chilaw,0621,Chilaw,062,North Western Province,06
+B0640,B,Nainamadama-Iranawila-Chilaw,21920,31630,9710,Chilaw,06211,Chilaw,0621,Chilaw,062,North Western Province,06
+B0641,B,Kadawatha By pass,0,1664,1664,Kadawatha,01212,Gampaha,0121,Gampaha,012,Western Province,01
+B0642,B,"Access road to Defence Headquarters Pelawatta (From Denzil Kobbekaduwa Mawatha, Koswatta to Defence Headquarters Pelawatta)",0,1260,1260,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0643,B,Kegalle Bypass,0,4370,4370,Dewalegama,09212,Kegalle,0921,Kegalle,092,Sabaragamuwa Province,09
+B0644,B,Kelanimulla-Angoda-Koswatta,0,3255,3255,Orugodawatta,01114,Colombo,0111,Colombo,011,Western Province,01
+B0644,B,Kelanimulla-Angoda-Koswatta,3255,4545,1290,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+B0645,B,Pelawatta-Akuregoda-Pothuarawa,0,4100,4100,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+K0001,K,Ampara - Inginiyagala,0,21659,21659,Ampara,10111,Ampara,1011,Ampara,101,Add.P Akkaraipattu,10
+K0003,K,Approach rd to gampola bridge,0,490,490,Ulapane,02134,Kadugannawa,0213,Kandy,021,Central Province,02
+K0004,K,Approach Road to Kaduwela Bridge,0,180,180,Kaduwela,01111,Colombo,0111,Colombo,011,Western Province,01
+K0004,K,Approach Road to Kaduwela Bridge,180,780,600,Pattiwila,01214,Gampaha,0121,Gampaha,012,Western Province,01
+K0005,K,Approach Road to Sri Jayewardenepura Hospital,0,2460,2460,Navinna,01112,Colombo,0111,Colombo,011,Western Province,01
+K0006,K,Avissawella Town Road,0,70,70,Kaluaggala,01123,Avissawella,0112,Colombo,011,Western Province,01
+K0007,K,Balangoda By Pass,0,1130,1130,Horaketiya,09121,Pelmadulla,0912,Ratnapura,091,Sabaragamuwa Province,09
+K0008,K,Bandarawela By Pass,0,450,450,Ella,08111,Bandarawela,0811,Badulla,081,UVA Province,08
+K0009,K,Canada Friend-ship Road,0,1830,1830,Negambo unit,01223,Negambo,0122,Gampaha,012,Western Province,01
+K0010,K,Colombo - Hanwella Low Level Road,0,270,270,CMC,01110,Colombo,0111,Colombo,011,Western Province,01
+K0010,K,Colombo - Hanwella Low Level Road,270,8600,8330,Orugodawatta,01114,Colombo,0111,Colombo,011,Western Province,01
+K0010,K,Colombo - Hanwella Low Level Road,8600,20550,11950,Kaduwela,01111,Colombo,0111,Colombo,011,Western Province,01
+K0010,K,Colombo - Hanwella Low Level Road,20550,26660,6110,Kaluaggala,01123,Avissawella,0112,Colombo,011,Western Province,01
+K0011,K,Galle Road New Deviation (Cross Junc. to Egoda Uyana),0,6410,6410,Ratmalana,01115,Colombo,0111,Colombo,011,Western Province,01
+K0011,K,Galle Road New Deviation (Cross Junc. to Egoda Uyana),6410,6820,410,Panadura,01314,Kalutara,0131,Kalutara,013,Western Province,01
+K0012,K,Galle - Marine Drive (to be named as Old Matara Road),0,1160,1160,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+K0013,K,Gampola - Nawalapitiya,0,16180,16180,Ulapane,02134,Kadugannawa,0213,Kandy,021,Central Province,02
+K0014,K,"Hospital - Esplanade road, Ratnapura",0,1400,1400,Malwala,09113,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+K0015,K,Inner ring Road,0,3800,3800,Nawala,01113,Colombo,0111,Colombo,011,Western Province,01
+K0016,K,Jaffna - Kankesanturai,0,10430,10430,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+K0016,K,Jaffna - Kankesanturai,10430,18250,7820,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+K0017,K,Jaffna - Manipay - Karainagar,0,4410,4410,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+K0017,K,Jaffna - Manipay - Karainagar,4410,27430,23020,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+K0018,K,Jaffna - Palali,0,9000,9000,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+K0018,K,Jaffna - Palali,9000,17220,8220,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+K0019,K,Jaffna - Pannai - Kayts,0,2010,2010,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+K0019,K,Jaffna - Pannai - Kayts,2010,20250,18240,Velanai,04113,Jaffna,0411,Jaffna,041,Northern Province,04
+K0020,K,Jaffna - Point Pedro,0,20185,20185,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+K0020,K,Jaffna - Point Pedro,20185,33890,13705,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+K0021,K,Jaffna - Ponnalai - Point Pedro,0,3880,3880,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+K0021,K,Jaffna - Ponnalai - Point Pedro,3880,37380,33500,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+K0021,K,Jaffna - Ponnalai - Point Pedro,37380,41800,4420,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+K0021,K,Jaffna - Ponnalai - Point Pedro,41800,55380,13580,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+K0022,K,"Jail Road, Hambantota",0,430,430,Uda malala,03321,Hambantota,0332,Hambantota,033,Southern Province,03
+K0023,K,Kalattawa - Matale Junction,0,6310,6310,Mankadawala,07111,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+K0024,K,Link Road - Dambulla,0,1000,1000,Inamaluwa,02223,Nalanda,0222,Matale,022,Central Province,02
+K0025,K,Lion Pillar - Sri Maha Bodhi Road,0,1050,1050,Thisa Wewa,07115,Anuradhapura,0711,Anuradhapura,071,North Central Province,07
+K0026,K,Matale - Udupihilla,0,5940,5940,Matale,02213,Matale,0221,Matale,022,Central Province,02
+K0027,K,"Old Colombo - Galle Road, Panadura",0,1870,1870,Panadura,01314,Kalutara,0131,Kalutara,013,Western Province,01
+K0028,K,"Old Colombo - Puttalam Road, Ja Ela",0,910,910,Ja-ela,01221,Negambo,0122,Gampaha,012,Western Province,01
+K0029,K,Pasyala - Giriulla,0,19230,19230,Mirigama,01231,Nittambuwa,0123,Gampaha,012,Western Province,01
+K0031,K,Puloly - Kodikamam - Kachchai,0,5010,5010,Mandan,04122,Point Pedro,0412,Jaffna,041,Northern Province,04
+K0031,K,Puloly - Kodikamam - Kachchai,5010,18970,13960,Kaithadi,04121,Point Pedro,0412,Jaffna,041,Northern Province,04
+K0032,K,Puttur - Meesalai,0,4915,4915,Jaffna,04112,Jaffna,0411,Jaffna,041,Northern Province,04
+K0032,K,Puttur - Meesalai,4915,13610,8695,Kaithadi,04121,Point Pedro,0412,Jaffna,041,Northern Province,04
+K0033,K,Samanturai village Road,0,1760,1760,Samanthurai,10222,Kalmunai,1022,Akkaraipattu,102,Add.P Akkaraipattu,10
+K0035,K,"Section A - B NEW TOWN ROAD, Ratnapura",0,1750,1750,Parakaduwa,09114,Ratnapura,0911,Ratnapura,091,Sabaragamuwa Province,09
+K0036,K,"Thalapitiya road, Galle",0,765,765,Nugaduwa,03113,Galle,0311,Galle,031,Southern Province,03
+K0037,K,Upper Gampola Road,0,2275,2275,Meewathura,02133,Kadugannawa,0213,Kandy,021,Central Province,02
+K0038,K,Valachchenai - Nasavantivu - Nawaladi,0,5120,5120,Walachchenei,05113,Batticaloa,0511,Batticaloa,051,Eastern Province,05
+K0039,K,Valukkairaru - Pungudutivu - Kurikadduwan,0,3230,3230,Changani,04111,Jaffna,0411,Jaffna,041,Northern Province,04
+K0039,K,Valukkairaru - Pungudutivu - Kurikadduwan,3230,24546,21316,Velanai,04113,Jaffna,0411,Jaffna,041,Northern Province,04
+K0040,K,Wattala Deviation,0,700,700,Wattala,01224,Negambo,0122,Gampaha,012,Western Province,01
+K0041,K,Weligama By Pass,0,3870,3870,Weligama,03212,Matara,0321,Matara,032,Southern Province,03
+K0042,K,Getambe Kandy By Pass,0,3760,3760,Gatambe,02112,Kandy,0211,Kandy,021,Central Province,02
+K0043,K,Wellawaya By Pass,0,1150,1150,Pelwatta,08212,Monaragala,0821,Monaragala,082,UVA Province,08
+K0044,K,Mahiyangana - Dimbulagala - Dalukkane,0,24030,24030,Mahiyanganaya,08131,Mahiyanganaya,0813,Badulla,081,UVA Province,08
+K0044,K,Mahiyangana - Dimbulagala - Dalukkane,24030,46865,22835,Dehiatthakandiya,10121,Dehiatthakandiya,1012,Ampara,101,Add.P Akkaraipattu,10
+K0044,K,Mahiyangana - Dimbulagala - Dalukkane,46865,72410,25545,Siripura,07213,Polonnaruwa,0721,Polonnaruwa,072,North Central Province,07
+K0045,K,Avissawela By pass,0,910,910,Kaluaggala,01123,Avissawella,0112,Colombo,011,Western Province,01
